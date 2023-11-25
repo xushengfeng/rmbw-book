@@ -5,10 +5,10 @@
         "type": "word",
         "updateTime": 0,
         "sections": [
-            { "title": "A1", "path": "ox/Oxford-A1.txt" },
-            { "title": "A2", "path": "ox/Oxford-A2.txt" },
-            { "title": "B1", "path": "ox/Oxford-B1.txt" },
-            { "title": "B2", "path": "ox/Oxford-B2.txt" }
+            { "id": "f64fea63", "title": "A1", "path": "ox/Oxford-A1.txt" },
+            { "id": "a8388fde", "title": "A2", "path": "ox/Oxford-A2.txt" },
+            { "id": "cbf31924", "title": "B1", "path": "ox/Oxford-B1.txt" },
+            { "id": "4ad09b94", "title": "B2", "path": "ox/Oxford-B2.txt" }
         ]
     }
 }

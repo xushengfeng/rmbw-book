@@ -1,4 +1,4 @@
-Lesson 1
+## Lesson 1
 Finding fossil man
 
 We can read of things that happened 5,000 years ago in the Near East, where people first learned to write. But there are some parts of the word where even now people cannot write. The only way that they can preserve their history is to recount it as sagas -- legends handed down from one generation of another. These legends are useful because they can tell us something about migrations of people who lived long ago, but none could write down what they did. Anthropologists wondered where the remote ancestors of the Polynesian peoples now living in the Pacific Islands came from. The sagas of these people explain that some of them came from Indonesia about 2,000 years ago.
@@ -8,7 +8,7 @@ ROBIN PLACE Finding fossil man
 
 
 
-Lesson 2
+## Lesson 2
 Spare that spider
 
 Why, you may wonder, should spiders be our friends? Because they destroy so many insects, and insects include some of the greatest enemies of the human race. Insects would make it impossible for us to live in the world; they would devour all our crops and kill our flocks and herds, if it were not for the protection we get from insect-eating animals. We owe a lot to the birds and beasts who eat insects but all of them put together kill only a fraction of the number destroyed by spiders. Moreover, unlike some of the other insect eaters, spiders never do the harm to us or our belongings.
@@ -18,7 +18,7 @@ How many spiders are engaged in this work no our behalf? One authority on spider
 T. H. GILLESPLE Spare that spider from The Listener
 
 
-Lesson 3
+## Lesson 3
 Matterhorn man
 
 Modern alpinists try to climb mountains by a route which will give them good sport, and the more difficult it is, the more highly it is regarded. In the pioneering days, however, this was not the case at all. The early climbers were looking for the easiest way to the top, because the summit was the prize they sought, especially if it and never been attained before. It is true that during their explorations they often faced difficulties and dangers of the most perilous nature, equipped in a manner with would make a modern climber shudder at the thought, but they did not go out of their way to court such excitement. They had a single aim, a solitary goal -- the top!
@@ -27,7 +27,7 @@ WALTER UNSWORTH Matterhorn Man
 
 
 
-Lesson 4
+## Lesson 4
 Seeing hands
 
 Several cases have been reported in Russia recently of people who can detect colours with their fingers, and even see through solid and walls. One case concerns and eleven-year-old schoolgirl, Vera Petrova, who has normal vision but who can also perceive things with different parts of her skin, and through solid walls. This ability was first noticed by her father. One day she came into his office and happened to put her hands on the door of a locked safe. Suddenly she asked her father why he kept so many old newspapers locked away there, and even described the way they were done up in bundles.
@@ -36,7 +36,7 @@ ERIC DE MAUNY Seeing hands from The Listener
 
 
 
-Lesson 5
+## Lesson 5
 Youth
 
 People are always talking about 'the problem of youth'. If there is one -- which I take leave to doubt -- then it is older people who create it, not the young themselves. Let us get down to fundamentals and agree that the young are after all human beings -- people just like their elders. There is only one difference between an old man and a young one: the young man has a glorious future before him and the old one has a splendid future behind him: and maybe that is where the rub is.
@@ -46,7 +46,7 @@ I find young people exciting. They have an air of freedom, and they not a dreary
 FIELDEN HUGHES from Out of the Air, The Listener
 
 
-Lesson 6
+## Lesson 6
 The sporting spirit
 
 I am always amazed when I hear people saying that sport creates goodwill between the nations, and that if only the common peoples of the would could meet one another at football or cricket, they would have no inclination to meet on the hattlefield. Even if one didn't know from concrete examples (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce if from general principles.
@@ -54,7 +54,7 @@ Nearly all the sports practised nowadays are competitive. You play to win, and t
 GEORGE ORWELL The sporting spirit
 
 
-Lesson 7
+## Lesson 7
 Bats
 
 Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role.
@@ -63,7 +63,7 @@ It has been found that certain bats emit squeaks and by receiving the echoes, th
 MAURICE BURTON Curiosities of animal life
 
 
-Lesson 8
+## Lesson 8
 Trading standards
 
 Chickens slaughtered in the United States, claim officials in Brussels, are not fit to grace European tables. No, say the American: our fowl are fine, we simply clean them in a different way. These days, it is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries. It is not just farmers who are complaining. An electric razor that meets the European Union's safety standards must be approved by American testers before it can be sold in the United States, and an American-made dialysis machine needs the EU's okay before is hits the market in Europe.
@@ -73,7 +73,7 @@ From: The Economist, May 24th, 1997
 
 
 
-Lesson 9
+## Lesson 9
 Royal espionage
 
 Alfred the Great acted his own spy, visiting Danish camps disguised as a minstrel. In those days wandering minstrels were welcome everywhere. They were not fighting men, and their harp was their passport. Alfred had learned many of their ballads in his youth, and could vary his programme with acrobatic tricks and simple conjuring.
@@ -85,7 +85,7 @@ BERNARD NEWMAN Spies in Britain
 
 
 Unit 2
-Lesson 10
+## Lesson 10
 
 
 Technology trends may push Silicon Valley back to the future. Carver Mead, a pioneer in integrated circuits and a professor of computer science at the California Institute of Technology, notes there are now work-stations that enable engineers to design, test and produce chips right on their desks, much the way an editor creates a newsletter on a Macintosh. As the time and cost of making a chip drop to a few days and a few hundred dollars, engineers may soon be free to let their imaginations soar without being penalized by expensive failures. Mead predicts that inventors will be able to perfect powerful customized chips over a weekend at the office -- spawning a new generation of garage start-ups and giving the U.S. a jump on its foreign rivals in getting new products to market fast. 'We're got more garages with smart people,' Mead observes. 'We really thrive on anarchy.'
@@ -93,14 +93,14 @@ And on Asians. Already, orientals and Asian Americans constitute the majority of
 US NEWS AND WORLD REPORT, October 2, 1989
 
 
-Lesson 11
+## Lesson 11
 How to grow old
 
 Some old people are oppressed by the fear of death. In the young there is a justification for this feeling. Young men who have reason to fear that they will be killed in battle may justifiably feel bitter in the thought that they have cheated of the best things that life has to offer. But in an old man who has known human joys and sorrows, and has achieved whatever work it was in him to do, the fear of death is somewhat abject and ignoble. The best way to overcome it -- so at least it seems to me -- is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life. An individual human existence should be like a river -- small at first, narrowly contained within its banks, and rushing passionately past boulders and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being. The man who, in old age, can see his life in this way, will not suffer from the fear of death, since the things he cares for will continue. And if, with the decay of vitality, weariness increases, the thought of rest will be not unwelcome. I should wish to die while still at work, knowing that others will carry on what I can no longer do, and content in the thought that what was possible has been done.
 BERTRAND RUSSELL How to grow old from Portraits from Memory
 
 
-Lesson 12
+## Lesson 12
 Banks and their customers
 
 When anyone opens a current account at a bank, he is lending the bank money, repayment of which he may demand at any time, either in cash or by drawing a cheque in favour of another person. Primarily, the banker-customer relationship is that of debtor and creditor -- who is which depending on whether the customer's account is in credit or is overdrawn. But, in addition to that basically simple concept, the bank and its customer owe a large number of obligations to one another. Many of these obligations can give in to problems and complications but a bank customer, unlike, say, a buyer of goods, cannot complain that the law is loaded against him.
@@ -108,7 +108,7 @@ The bank must obey its customer's instructions, and not those of anyone else. Wh
 GORDON BARRIE and AUBREY L. DLAMOND The Consumer Society and the Law
 
 
-Lesson 13
+## Lesson 13
 The search for oil
 
 The deepest holes of all made for oil, and they go down to as much as 25,0000 feet. But we not need to send men down to get the oil our, as we must with other mineral deposits. The holes are only borings, less than a foot in diameter. My particular experience is largely in oil, and the search for oil has done more to improve deep drilling than any other mining activity. When is has been decided where we are going to drill, we put up at the surface an oil derrick. It has to be tall because it is like a giant block and tackle, and we have to lower into the ground and haul out of the ground great lengths of drill pipe which are rotated by an engine at the top and are fitted with a cutting bit at the bottom.
@@ -116,7 +116,7 @@ The geologist needs to know what rocks the drill has reached, so every so often 
 T.F.GASKELL The Search for the Earth's Minerals from Discovery
 
 
-Lesson 14
+## Lesson 14
 The Butterfly Effect
 
 Beyond two or three days, the world's best weather forecasts are speculative, and beyond six or seven they are worthless.
@@ -126,21 +126,21 @@ The computer will still be unable to predict whether Princeton, New Jersey, will
 JAMES GLEICK, Chaos
 
 
-Lesson 15
+## Lesson 15
 Secrecy in industry
 
 Two factors weigh heavily against the effectiveness of scientific research in industry. One is the general atmosphere of secrecy in which it is carried out, the other the lack of freedom of the individual research worker. In so far as any inquiry is a secret one, it naturally limits all those engaged in carrying it out from effective contact with their fellow scientists either in other countries or in universities, or even, often enough, in other departments of the same firm. The degree of secrecy naturally varies considerably. Some of the bigger firms are engaged in researches which are of such general and fundamental nature that it is a positive advantage to them not to keep them secret. Yet a great many processes depending on such research are sought for with complete secrecy until the stage at which patents can be taken out. Even more processes are never patented at all but kept as secret processes. This applies particularly to chemical industries, where chance discoveries play a much larger part than they do in physical and mechanical industries. Sometimes the secrecy goes to such an extent that the whole nature of the research cannot be mentioned. Many firms, for instance, have great difficulty in obtaining technical or scientific books from libraries because they are unwilling to have names entered as having taken out such and such a book, for fear the agents of other firms should be able to trace the kind of research they are likely to be undertaking.
 J.D. BERNAL The Social Function of Science
 
 
-Lesson 16
+## Lesson 16
 The modern city
 
 In the organization of industrial life the influence of the factory upon the physiological and mental state of the workers has been completely neglected. Modern industry is based on the conception of the maximum production at lowest cost, in order that an individual or a group of individuals may earn as much money as possible. It has expanded without any idea of the true nature of the human beings who run the machines, and without giving any consideration to the effects produced on the individuals and on their descendants by the artificial mode of existence imposed by the factory. The great cities have been built with no regard for us. The shape and dimensions of the skyscrapers depend entirely on the necessity of obtaining the maximum income per square foot of ground, and of offering to the tenants offices and apartments that please them. This caused the construction of gigantic buildings where too large masses of human beings are crowded together. Civilized men like such a way of living. While they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life. The modern city consists of monstrous edifices and of dark, narrow streets full of petrol fumes and toxic gases, torn by the noise of the taxicabs, lorries and buses, and thronged ceaselessly by great crowds. Obviously, it has not been planned for the good of its inhabitants.
 ALEXIS CARREL Man, the Unknown
 
 
-Lesson 17
+## Lesson 17
 A man-made disease
 
 In the early days of the settlement of Australia, enterprising settlers unwisely introduced the European rabbit. This rabbit had no natural enemies in the Antipodes, so that it multiplied with that promiscuous abandon characteristic of rabbits. It overran a whole continent. It caused devastation by burrowing and by devouring the herbage which might have maintained millions of sheep and cattle. Scientists discovered that this particular variety of rabbit (and apparently no other animal) was susceptible to a fatal virus disease, myxomatosis. By infecting animals and letting them loose in the burrows, local epidemics of this disease could be created. Later it was found that there was a type of mosquito which acted as the carrier of this disease and passed it on to the rabbits. So while the rest of the world was trying to get rid of mosquitoes, Australia was encouraging this one. It effectively spread the disease all over the continent and drastically reduced the rabbit population. It later became apparent that rabbits were developing a degree of resistance to this disease, so that the rabbit population was unlikely to be completely exterminated. There were hopes, however, that the problem of the rabbit would become manageable.
@@ -148,7 +148,7 @@ Ironically, Europe, which had bequeathed the rabbit as a pest to Australia, acqu
 RITCHIE CALDER Science Makes Sense
 
 
-Lesson 18
+## Lesson 18
 Porpoises
 
 There has long been a superstition among mariners that porpoises will save drowning men by pushing them to the surface, or protect them from sharks by surrounding them in defensive formation. Marine Studio biologists have pointed out that, however intelligent they may be, it is probably a mistake to credit dolphins with any motive of lifesaving. On the occasions when they have pushed to shore an unconscious human being they have much more likely done it out of curiosity or for sport, as in riding the bow waves of a ship. In 1928 some porpoises were photographer working like beavers to push ashore a waterlogged mattress. If, as has been reported, they have protected humans from sharks, it may have been because curiosity attracted them and because the scent of a possible meal attracted the sharks. Porpoises and sharks are natural enemies. It is possible that upon such an occasion a battle ensued, with the sharks being driven away or killed.
@@ -156,7 +156,7 @@ Whether it be bird, fish or beast, the porpoise is intrigued with anything that 
 RALPH NADING HILL Window in the Sea
 
 
-Lesson 19
+## Lesson 19
 The stuff of dreams
 
 It is fairly clear that sleeping period must have some function, and because there is so much of it the function would seem to e important. Speculations about is nature have been going on for literally thousands of years, and one odd finding that makes the problem puzzling is that it looks very much as if sleeping is not simply a matter of giving the body a rest. 'Rest', in terms of muscle relaxation and so on, can be achieved by a brief period lying, or even sitting down. The body's tissues are self-repairing and self-restoring to a degree, and function best when more or less continuously active. In fact a basic amount of movement occurs during sleep which is specifically concerned with preventing muscle inactivity.
@@ -164,7 +164,7 @@ If it is not a question of resting the body, then perhaps it is the brain that n
 CHRISTOPHER EVANS The stuff of dreams from The Listener
 
 
-Lesson 20
+## Lesson 20
 Snake poison
 
 How it came about that snakes manufactured poison is a mystery. Over the periods their saliva, a mild, digestive juice like our own, was converted into a poison that defies analysis even today. It was not forced upon them by the survival competition; they could have caught and lived on prey without using poison, just as the thousands of non-poisonous snakes still do. Poison to a snake is merely a luxury; it enables it to get its food with very little effort, no more effort than one bite. And why only snakes? Cats, for instance, would be greatly helped; no running fights with large, fierce rats or tussles with grown rabbits -- just a bite and no more effort needed. In fact, it would be an assistance to all carnivores though it would be a two-edged weapon when they fought each other. But, of the vertebrates, unpredictable Nature selected only snakes (and one lizard). One wonders saliva into why Nature, with respect from that of others, as other on the blood.
@@ -173,7 +173,7 @@ The makers of the nerve poison include the mambas and the cobras and their venom
 JOHN CROMPTON The snake
 
 
-Lesson 21
+## Lesson 21
 William S. Hart and the early 'Western' film
 
 William S. hart was, perhaps, the greatest of all Western stars, fro unlike Gary Cooper and John Wayne he appeared in nothing but Westerns. From 1914 to 1924 he was supreme and unchallenged. It was Hart who created the basic formula of the Western film, and devised the protagonist he played in every film he made, the good-had man, the accidental-noble outlaw, or the honest-but-framed cowboy, or the sheriff made suspect by vicious gossip; in short, the individual in conflict with himself and his frontier environment.
@@ -183,21 +183,21 @@ Audiences in the second decade of the twentieth century found it pleasant to esc
 CARL FOREMAN Virtue and a Fast Gun from The Observer
 
 
-Lesson 22
+## Lesson 22
 Knowledge and progress
 
 Why does the idea of progress loom so large in the modern world? Surely progress of a particular kind is actually taking place around us and is becoming more and more manifest. Although mankind has undergone no general improvement in intelligence or morality, it has made extraordinary progress in the accumulation of knowledge. Knowledge began to increase as soon as the thoughts of one individual could be communicated to another by means of speech. With the invention of writing, a great advance was made, for knowledge could then be not only communicated but also stored. Libraries made education possible, and education in its turn added to libraries: the growth of knowledge followed a kind of compound interest law, which was greatly enhanced by the invention of printing. All this was comparatively slow until, with the coming of science, the tempo was suddenly raised. Then knowledge began to be accumulated according to a systematic plan. The trickle became a stream; the stream has now become a torrent. Moreover, as soon as new knowledge is acquired, it is now turned to practical account. What is called 'modern civilization' is not the result of a balanced development of all man's nature. but of accumulated knowledge applied to practical life. The problem now facing humanity is: What is going to be done with all this knowledge? As is so often pointed out, knowledge is a two-edged weapon which can be used equally for good or evil. It is now being used indifferently for both. Could any spectacle, for instance, be more grimly whimsical than that of gunners ourselves very seriously what will happen if this twofold use of knowledge, with its ever-increasing power, continues.
 G.N.M.TYRRELL The Personality of Man
 
 
-Lesson 23
+## Lesson 23
 Bird flight
 
 No two sorts of birds practise quite the same sort of flight; the varieties are infinite; but two classes may be roughly seen. Any shi that crosses the Pacific is accompanied for many days by the smaller albatross, Which may keep company with the vessel for an hour without visible or more than occasional movement of wing. The currents of air that the walls of the ship direct upwards, as well as in the line of its course, are enough to give the great bird with its immense wings sufficient sustenance and progress. The albatross is the king of the gliders, the class of fliers which harness the air to their purpose, but must yield to its opposition. In the contrary school, the duck is supreme. It comes nearer to the engines with which man has 'conquered' the air, as he boasts. Duck, and like them the pigeons, are endowed with such-like muscles, that are a good part of the weight of the bird, and these will ply the short wings with such irresistible power that they can bore for long distances through an opposing gale before exhaustion follows. Their humbler followers, such as partridges, have a like power of strong propulsion, but soon tire. You may pick them up in utter exhaustion, if wind over the sea has driven them to a long journey. The swallow shares the virtues of both schools in highest measure. It tires not, nor does it boast of its power; but belongs to the air, travelling it may be six thousand miles to and from its northern nesting home, feeding its flown young as it flies, and slipping through we no longer take omens from their flight on this side and that; and even the most superstitious villagers no longer take off their hats to the magpie and wish it good-morning.
 WILLIAM BEACH THOMAS A Countryman's Creed
 
 
-Lesson 24
+## Lesson 24
 Beatuy
 
 A young man sees a sunset and, unable to understand or to express the emotion that it rouses in him, concludes that it must be the gateway to world that lies beyond. It is difficult for any of us in moments of intense aesthetic experience to resist the suggestion that we are catching a glimpse of a light that shines down to us from a different realm of existence, different and, because the experience is intensely moving, in some way higher. And, though the gleams blind and dazzle, yet do they convey a hint of beauty and serenity greater than we have known or imagined. Greater too than we can describe; for language, which was invented to convey the meanings of this world, cannot readily be fitted to the uses of another.
@@ -205,7 +205,7 @@ That all great has this power of suggesting a world beyond is undeniable. In som
 C.E.M.JOAD Pieces of Mind
 
 
-Lesson 25
+## Lesson 25
 Non-auditory effects of noise
 
 May people in industry and the Services, who have practical experience of noise, regard any investigation of this question as a waste of time; they are not prepared even to admit the possibility that noise affects people. On the other hand, those who dislike noise will sometimes use most inadequate evidence to support their pleas for a quieter society. This is a pity, because noise abatement really is a good cause, and it is likely to be discredited if it gets to be associated with had science.
@@ -214,7 +214,7 @@ What is needed in case of noise is a study of large numbers of people living und
 D.E.BROADBENT Non-auditory effects of noise from Science Survey
 
 
-Lesson 26
+## Lesson 26
 The past life of the earth
 
 It is animals and plants which lived in or near water whose remains are most likely to be preserved, for one of the necessary conditions of preservation is quick burial, and it is only in the seas and rivers, and sometimes lakes, where mud and sit have been continuously deposited, that bodies and the can be rapidly covered over and preserved.
@@ -223,7 +223,7 @@ It is almost always due to some very special circumstances that traces of land a
 ERROL WHITE The past life of the earth from Discovery
 
 
-Lesson 27
+## Lesson 27
 The 'Vasa'
 
 From the seventeenth-century empire of Sweden, the story of a galleon that sank at the start of her maiden voyage in 1628 must be one of the strangest tales of the sea. For nearly three and a half centuries she lay at the bottom of Stockholm harbour until her discovery in 1956. This was the Vasa, royal flagship of the great imperial fleet.
@@ -234,14 +234,14 @@ As the wind freshened there came a sudden squall and the ship made a strange mov
 ROY SAUNGERS The Raising of the 'Vasa' from The Listener
 
 
-Lesson 28
+## Lesson 28
 Patients and doctors
 
 This is a sceptical age, but although our faith in many of the things in which our forefathers fervently believed has weakened, our confidence in the curative properties of the bottle of medicine remains the same a theirs. This modern faith in medicines is proved the fact that the annual drug bill of the Health Services is mounting to astronomical figures and shows no signs at present of ceasing to rise. The majority of the patients attending the medical out-patients departments of our hospitals feel that they have not received adequate treatment unless they are able to carry home with them some tangible remedy in the shape of a bottle of medicine, a box of pills, or a small jar of ointment, and the doctor in charge of the department is only too ready to provide them with these requirements. There is no quicker method of disposing of patients then by giving them what they are asking for, and since most medical men in the Health Services are overworked and have little time for offering time-consuming and little-appreciated advice on such subjects as diet, right living, and the need for abandoning bad habits etc., the bottle, the box, and the jar are almost always granted them.
 Nor is it only the ignorant and ill-educated person who was such faith in the bottle of medicine. It is recounted of Thomas Carlyle that when him in his pocket what remained of a bottle of medicine formerly prescribed for an indisposition of Mrs. Carlyle's. Carlyle was entirely ignorant of what the bottle in his pocket contained, of the nature of the illness from which his friend was suffering, and of what had previously been wrong with his wife, but a medicine that had worked so well in one form of illness would surely be of equal benefit in another, and comforted by the thought of the help he was bringing to his friend, he hastened to Henry Taylor's house. History does not relate whether his friend accepted his medical help, but in all probability he did. The great advantage of taking medicine is that it makes no demands on the taker beyond that of putting up for a moment with a disgusting taste, and that is what all patients demand of their doctors -- to be cured at no inconvenience to themselves.
 
 
-Lesson 29
+## Lesson 29
 The hovercraft
 
 Many strange new means of transport have been developed in our century, the strangest of them being perhaps the hovercraft. In 1953, a former electronics engineer in his fifties, Christopher Cockerell, who had turned to boat-building on the Norfolk Broads, suggested an idea on which he had been working for many years to the British Government and industrial circles. It was the idea of supporting a craft on a 'pad', or cushion, of low-pressure air, ringed with a curtain of higher pressure air. Ever since, people have had difficulty in deciding whether the craft should be ranged among ships, planes, or land vehicles -- for it is something in between a boat and an aircraft. As a shipbuilder, Cockerell was trying to find a solution to the problem of the wave resistance which wastes a good deal of a surface ship's power and limits its speed. His answer was to lift the vessel out of the water by a great number of ring-shaped air jets on the bottom of the craft. It 'flies', therefore, but it cannot fly higher -- its action depends on the surface, water or ground, over which it rides.
@@ -250,7 +250,7 @@ Since that time, various types of hovercraft have appeared and taken up regular 
 EGON LARSEN The Pegasus Book of Inventors
 
 
-Lesson 30
+## Lesson 30
 Exploring the sea-floor
 
 Our knowledge of the oceans a hundred years ago was confined to the two-dimensional shape of the sea surface and the hazards of navigation presented by the irregularities in depth of the shallow water close to the land. The open sea was deep and mysterious, and anyone who gave more than a passing thought to the bottom confines of the oceans probably assumed that the sea bad was flat. Sir James Clark Ross had obtained a sounding of over 2,400 fathoms in 1839, but it was not until of deep soundings was obtained in the Atlantic and the first samples were collected by dredging the bottom. Shortly after this the famous H. M. S. Challenger expedition established the study of the sea-floor as a subject worthy of the most qualified physicists and geologists. A burst of activity associated with the laying of submarine cables soon confirmed the challenger's observation that many parts of the ocean were two to there miles deep, and the existence of underwater features of considerable magnitude.
@@ -259,7 +259,7 @@ This continental slope usually starts at a place somewhere near the 100-fatheom 
 T.F.GASKELL Exploring the Sea-floor from Science Survey
 
 
-Lesson 31
+## Lesson 31
 The sculptor speaks
 
 Appreciation of sculpture depends upon the ability to respond to form in there dimension. That is perhaps why sculpture has been described as the most difficult of all arts; certainly it is more difficult than the arts which involve appreciation of flat forms, shape in only two dimensions. Many more people are 'form-blind' than colour-blind. The child learning to see, first distinguishes only two-dimensional shape; it cannot judge distances, depths. Later, for its personal safety and practical needs, it has to develop (partly by means of touch) the ability to judge roughly three-dimensonal distances. But having satisfied the requirements of practical necessity, most people go no further. Though they may attain considerable accuracy in the perception of flat from, they do no make the further. Though they may attain considerable accuracy in the perception of flat form, they do not make the further intellectual and emotional effort needed to comprehend form in its full spatial existence.
@@ -268,7 +268,7 @@ And the sensitive observer of sculpture must also learn to feel shape simply as 
 HENRY MOORE The Sculptor Speaks from The Listener
 
 
-Lesson 32
+## Lesson 32
 Galileo reborn
 
 In his own lifetime Galileo was the centre of violent controversy; but the scientific dust has long since settled, and today we can see even his famous clash with the Inquisition in something like its proper perspective. But, in contrast, it is only in modern times that Galileo has become a problem child for historians of science.
@@ -277,7 +277,7 @@ But a closer study of the evidence, supported by a deeper sense of the period, a
 MICHAEL HOSKIN Galileo Reborn from The Listener
 
 
-Lesson 33
+## Lesson 33
 Education
 
 Education is one of the key words of our time. A man without an education, many of us believe, is an unfortunate victim of adverse circumstances, deprived of one of the greatest twentieth-century opportunities. Convinced of the importance of education, modern states 'invest' in institutions of learning to get back 'interest' in the form of a large group of enlightened young men and women who are potential leaders. Education, with its cycles of instruction so carefully worked out, punctuated by textbooks -- those purchasable wells of wisdom-what would civilization be like without its benefits?
@@ -287,7 +287,7 @@ Education in the wilderness is not a matter of monetary means. All are entitled 
 JULIUS E. LIPS The Origin of Things
 
 
-Lesson 34
+## Lesson 34
 Adolescence
 
 Parents are often upset when their children praise the homes of their friends and regard it as a slur on their own cooking, or cleaning, or furniture, and often are foolish enough to let the adolescents see that they are annoyed. They may even accuse them of disloyalty, or make some spiteful remark about the friends' parents. Such loss of dignity and descent into childish behaviour on the part to their parents about the place or people they visit. Before very long the parents will be complaining that the child is so secretive and never tells them anything, but they seldom realize that they have brought this on themselves.
@@ -297,7 +297,7 @@ Victorian parents believed that they kept their dignity by retreating behind an 
 DOTID OFLUM Journey Through Adolescence
 
 
-Lesson 35
+## Lesson 35
 Space odyssey
 
 The Moon is likely to become the industrial hub of the Solar System, supplying the rocket fuels fro its ships, easily obtainable from the lunar rocks in the from of liquid oxygen. The reason lies in its gravity. Because the Moon has only an eightieth of the Earth's mass, it requires 97 per cent less energy to travel the quarter of a million miles from the Moon to Earth-orbit than the 200 mile-journey from Earth's surface into orbit!
@@ -310,7 +310,7 @@ The idea of colonising Mars -- a world 160 times more distant time the Moon -- w
 7 DAYS, February 19, 1989
 
 
-Lesson 36
+## Lesson 36
 The cost of government
 
 If a nation is essentially disunited, it is left to the government to hold it together. This increases the expense of government, and reduces correspondingly the amount of economic resources that could be used for developing the country. And it should not be forgotten how small those resources are in a poor and backward country. Where the cost of government is high, resources for development are correspondingly low.
@@ -319,7 +319,7 @@ It is precisely the same with a nation. To the extent that the people can be rel
 RAYMOND FROST The Backward Society
 
 
-Lesson 37
+## Lesson 37
 The process of ageing
 
 At the age of twelve years, the human body is at its most vigorous. It has yet to reach its full size and strength, and its owner his or her full intelligence; but at this age the likelihood of death is least. Earlier, we were infants and young children, and consequently more vulnerable; later, we shall undergo a progressive loss of our vigour and resistance which, though imperceptible at first, will finally become so steep that we can live no longer, however well we look after ourselves, and however well society, and our doctors, look after us. This decline in vigour with the passing of time is called ageing. It is one of the most unpleasant discoveries which we all make that we must decline in this way, that if we escape wars, accidents and disease we shall eventually 'die of old age', and that this happens at a rate which differs little from person to person, so that there are heavy odds in favour of our dying between the ages of sixty-five and eighty. Some of us will die sooner, a few will live longer -- on into a ninth or tenth decade. But the chances are against it, and there is a virtual limit on how long we can hope to remain alive, however lucky and robust we are.
@@ -327,7 +327,7 @@ Normal people tend to forget this process unless and until they are reminded of 
 ALEX COMFORT The process of ageing
 
 
-Lesson 38
+## Lesson 38
 Water and the traveller
 
 Contamination of water supplies is usually due to poor sanitation close to water sources, sewage disposal into the sources themselves, leakage of sewage into distribution systems or contamination with industrial or farm waste. Even if a piped water supply is safe at its source, it is not always safe by the time it reaches the tap. Intermittent tap-water supplies should be regarded as particularly suspect.
@@ -340,7 +340,7 @@ RICHARD DAWOOD Travellers' Health
 
 
 
-Lesson 39
+## Lesson 39
 What every writer wants
 
 I have known very few writers, but those I have known, and whom I respect, confess at once that they have little idea where they the are going when they first set pen to paper. They have a character, perhaps two; they are in that condition of eager discomfort which passes for inspiration; all admit radical changes of destination once the journey has begun; one, to my certain knowledge, spent nine months on a novel about Kashmir, then reset the whole thing in the Scottish Highlands. I never heard of anyone making a 'skeleton', as we were taught at school. In the breaking and remaking, in the timing, interweaving, beginning afresh, the writer comes to discern things in his material which were not consciously in his mind when he began. This organic process, often leading to moments of extraordinary self-discovery, is of an indescribable fascination. A blurred image appears; he adds a brushstroke and another, and it is gone; but something was there, and he will not rest till he has captured it. Sometimes the yeast within a writer outlives a book he has written. I have heard of writers who read nothing but their own books; like adolescents they stand before the mirror, and still cannot fathom the exact outline of the vision before them. For the same reason, writers talk interminably about their own books, winkling out hidden meanings, super-imposing new ones, begging response from those around them. Of course a writer doing this is misunderstood: he might as well try to explain a crime or a love affair. He is also, incidentally, an unforgivable bore.
@@ -349,7 +349,7 @@ A young English writer made the pertinent observation a year or two back that th
 JOHN LE CARRE What every writer wants from Harper's
 
 
-Lesson 40
+## Lesson 40
 Waves
 
 Waves are the children of the struggle between ocean and atmosphere, the ongoing signatures of infinity. Rays from the sun excite and energize the atmosphere of the earth, awakening it to flow, to movement, to rhythm, to life. The wind then speaks the message of the sun to the sea and the sea transmits it on through waves -- an ancient, exquisite, powerful message.
@@ -361,7 +361,7 @@ The undulating waves of the open sea are generated by three natural causes: wind
 from World Magazine (BBC Enterprises)
 
 
-Lesson 41
+## Lesson 41
 Training elephants
 
 Two main techniques have been used for training elephants, which we may respectively the tough and the gentle. The former method simply consists of setting an elephant to work and beating him until he does what is expected of him. Apart from moral considerations this is a stupid method of training, for it produces a resentful animal who at a later stage may well turn man-killer. The gentle method requires more patience in the early stages, but produces a cheerful, good-tempered elephant who will give many years of loyal service.
@@ -371,7 +371,7 @@ When several elephants are being trained at one time, it is customary for the ne
 RICHARD CARRINGTON Elephants
 
 
-Lesson 42
+## Lesson 42
 Recording an earthquake
 
 An earthquake comes like a thief in the night, without warning. It was necessary, therefore, to invent instruments that neither slumbered nor slept. Some devices were quite simple. One, for instance, consisted of rods of various lengths and thicknesses with would stand up end like ninepins. When a shock came, it shook the rigid table upon which these stood. If it were gentle, only the more unstable rods fell. If it were severe, they all fell. Thus the rods, by falling, and by the direction in which they fell, recorded for the severe, they all fell. Thus the rods, by falling, and by the direction in which they fell, recorded for the slumbering scientist the strength of a shock that was too weak to waken him, and the direction from which it came.
@@ -380,7 +380,7 @@ When the instrument is situated at more than 700 miles from the earthquake centr
 H.H,SWINNERTON The Earth beneath Us
 
 
-Lesson 43
+## Lesson 43
 Are there strangers in space?
 
 We must conclude from the work of those who have studied the origin of life, that given a planet only approximately like our own, life is almost certain to start. Of all the planets in our solar system, we ware now pretty certain the Earth is the only one on which life can survive. Mars is too dry and poor in oxygen, Venus far too hot, and so is Mercury, and the outer planets have temperatures near absolute zero and hydrogen-dominated atmospheres. But other suns, start as the astronomers call them, are bound to have planets like our own, and as is the number of stars in the universe is so vast, this possibility becomes virtual certainty. There are one hundred thousand million starts in our own Milky Way alone, and then there are exist is now estimated at about 300 million million.
@@ -392,7 +392,7 @@ Once the existence of this wave-length had been discovered, it was not long befo
 ANTHONY MICHAELIS Are There Strangers in Space? from The Weekend Telegraph
 
 
-Lesson 44
+## Lesson 44
 Patterns of culture
 
 Custom has not commonly been regarded as a subject of great moment. The inner workings of our won brains we feel to be uniquely worthy of investigation, but custom, we have a way of thinking, is behaviour at its most commonplace. As a matter of fact, it is the other way around. Traditional custom, taken the world over, is a mass of detailed behaviour more astonishing than what any one person can ever evolve in individual actions, no matter how aberrant. Yet that is a rather trivial aspect of the matter. The fact of first-rate importance is the predominant role that custom plays in experience and in belief, and the very great varieties it may manifest.
@@ -402,7 +402,7 @@ Anthropology was by definition impossible, as long as these distinctions between
 RUTH BENEDICT Patterns of Culture
 
 
-Lesson 45
+## Lesson 45
 Of men and galaxies
 
 In man's early days. competition with other creatures must have been critical. But this phase of our development is now finished. Indeed, we lack practice and experience nowadays in dealing with primitive conditions. I am sure that, without modern weapons, I would make a very poor show of disputing the ownership of a cave with a bear, and in this I do not think that I stand alone. The last creature to compete with man was the mosquito. But even the mosquito has been subdued by attention to drainage and by chemical sprays.
@@ -412,7 +412,7 @@ It is well known that where the white man has invaded a primitive culture, the m
 FRED HOYLE Of Men and Galaxies
 
 
-Lesson 46
+## Lesson 46
 Hobbies
 
 a gifted American psychologist has said, 'Worry is a spasm of the emotion; the mind catches hold of something and will not let it go.' It is useless to argue with the mind in this condition. The stronger the will, the more futile the task. One can only gently insinuate something else into its convulsive grasp. And if this something else is rightly chosen, if it really attended by the illumination of another field of interest, gradually, and often quite swiftly, the old undue grip relaxes and the process of recuperation and repair begins.
@@ -423,7 +423,7 @@ It may also be said that rational, industrious, useful human being are divided i
 WINSTON CHURCHLL Painting as a Pastime
 
 
-Lesson 47
+## Lesson 47
 The great escape
 
 Economy is one powerful motive for camping, since after the initial outlay upon equipment, or through hiring it, the total expense can be far less than the cost of hotels. But, contrary to a popular assumption, it is far from being the only one, or even the greatest. The man who manoeuvres carelessly into his twenty pounds' worth of space at one of Europe's myriad permanent sites may find himself bumping a Bentley. More likely, Ford Escort will be hub to hub with Renault or Mercedes, but rarely with bicycles made for two.
@@ -436,7 +436,7 @@ Whether the remarkable growth of organized camping means the eventual death of t
 NIGEL BUXTON The Great Escape from The Weekend Telegraph
 
 
-Lesson 48
+## Lesson 48
 Planning a share portfolio
 
 There is no shortage of tipsters around offering 'get-rich-quick' opportunities. But if you are a serious private investor, leave the Las Vegas mentality to those with money to fritter. The serious investor needs a proper 'portfolio' -- a well-planned selection of investments, with a definite structure and a clear aim. But exactly how does a newcomer to the stock market go about achieving that?

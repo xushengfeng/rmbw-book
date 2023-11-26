@@ -1,4 +1,4 @@
-Lesson 1   Excuse me!
+## Lesson 1   Excuse me!
 
   Excuse me!
   Yes?
@@ -8,7 +8,7 @@ Lesson 1   Excuse me!
   Thank you very much.
 
 
-Lesson 3   Sorry, sir.
+## Lesson 3   Sorry, sir.
 
   My coat and my umbrella please.
   Here is my ticket.
@@ -23,7 +23,7 @@ Lesson 3   Sorry, sir.
   Yes, it is.
   Thank you very much.
 
-Lesson 5   Nice to meet You
+## Lesson 5   Nice to meet You
 
 MR. BLAKE: Good morning.
 STUDENTS:  Good morning, Mr. Blake.
@@ -47,7 +47,7 @@ MR. BLAKE: And this is Xiaohui.
 XIAOHUI:   Nice to meet you.
 
 
-Lesson 7   Are you a teacher?
+## Lesson 7   Are you a teacher?
 
 ROBERT: I am a new student.
         My name's Robert.
@@ -67,7 +67,7 @@ SOPHIE: What's your job?
 ROBERT: I'm an engineer.
 
 
-Lesson 9   How are you today?
+## Lesson 9   How are you today?
 
 STEVEN: Hello, Helen.
 HELEN:  Hi, Steven.
@@ -82,7 +82,7 @@ STEVEN: Goodbye, Helen.
 HELEN:  Nice to see you, too, Steven. Goodbye.
 
 
-Lesson 11   Is this your shirt?
+## Lesson 11   Is this your shirt?
 
 HEACHER: Whose shirt is that?
 HEACHER: Is this your shirt, Dave?
@@ -102,7 +102,7 @@ HEACHER: Here you are.
 TIM:     Thank you, sir.
 
 
-Lesson 13   A new dress
+## Lesson 13   A new dress
 
 LOUISE: What colour's your new dress?
 ANNA:   It's green.
@@ -119,7 +119,7 @@ ANNA:   It's the same colour.
 LOUISE: That is a lovely hat!
 
 
-Lesson 15
+## Lesson 15
 Your passports, please.
 
 CUSTOMS OFFICER: Are you Swedish?
@@ -142,7 +142,7 @@ CUSTOMS OFFICER: That's fine.
 GIRLS:           Thank you very much.
 
 
-Lesson 17
+## Lesson 17
 How do you do?
 
 MR. JACKSON:  Come and meet our employees, Mr.Richards.
@@ -165,7 +165,7 @@ MR. JACKSON:  This is Jim.
               He's our office assistant.
 
 
-Lesson 19
+## Lesson 19
 Tired and thirsty
 
 MOTHER:   What's the matter, children?
@@ -184,7 +184,7 @@ MOTHER:   Are you all right now?
 CHILDREN: Yes, we are, thank you!
 
 
-Lesson 21
+## Lesson 21
 Which book?
 
 MAN:   Give me a book please, Jane.
@@ -197,7 +197,7 @@ WOMAN: Here you are.
 MAN:   Thank you.
 
 
-Lesson 23
+## Lesson 23
 Which glasses?
 
 MAN:   Give me some glasses please, Jane.
@@ -211,7 +211,7 @@ WOMAN: Here you are.
 MAN:   Thanks.
 
 
-Lesson 25
+## Lesson 25
 Mrs. Smith's Kitchen
 
   Mrs. Smith's kitchen is small.
@@ -228,7 +228,7 @@ Mrs. Smith's Kitchen
   The cup is clean.
 
 
-Lesson 27
+## Lesson 27
 Mrs. Smith's living room
 
   Mrs. Smith's living room is large.
@@ -246,7 +246,7 @@ Mrs. Smith's living room
   The pictures are on the wall.
 
 
-Lesson 29
+## Lesson 29
 Come in, Amy.
 
 MRS. JONES: Come in, Amy.
@@ -260,7 +260,7 @@ MRS. JONES: Dust the dressing table.
 MRS. JONES: Then sweep the floor.
 
 
-Lesson 31
+## Lesson 31
 Where's Sally?
 
 JEAN: Where's Sally, Jack?
@@ -279,7 +279,7 @@ JACK: The dog's in the garden, too.
       It's running after a cat.
 
 
-Lesson 33
+## Lesson 33
 A fine day
 
   It is a fine day today.
@@ -295,7 +295,7 @@ A fine day
   The aeroplane is flying over the river.
 
 
-Lesson 35
+## Lesson 35
 Our village
 
   This is a photograph of our village.
@@ -317,7 +317,7 @@ Our village
   Some of them are going to the park. 
 
 
-Lesson 37
+## Lesson 37
 Making a bookcase
 
 DAN:    You're working hard, George.
@@ -340,7 +340,7 @@ GEORGE: This bookcase isn't for me.
         Pink's her favourite colour.
 
 
-Lesson 41
+## Lesson 41
 Penny's bag
 
 SAN:   Is that bag heavy, Penny?
@@ -361,7 +361,7 @@ SAN:   Is that tin of tobacco for me?
 PENNY: Well, it's certainly not for me!
 
 
-Lesson 43
+## Lesson 43
 Hurry up!
 
 PENNY: Can you make the tea, Sam?
@@ -385,7 +385,7 @@ PENNY: Hurry up, Sam!
        The kettle's boiling!
 
 
-Lesson 45
+## Lesson 45
 The boss's letter
 
 THE BOSS: Can you come here a minute please, Bob?
@@ -408,7 +408,7 @@ PAMELA:   I can't read it!
           The boss's handwriting is terrible!
 
 
-Lesson 47
+## Lesson 47
 A cup of coffee
 
 CHRISTINE: Do you like coffee, Ann?
@@ -427,7 +427,7 @@ CHRISTINE: Do you want one?
 ANN:       Yes, please.
 
 
-Lesson 49
+## Lesson 49
 At the butcher's
 
 BUTCHER:  Do you want any meat today.
@@ -451,7 +451,7 @@ BUTCHER:  To tell you the truth, Mrs. Bird,
           I don't like chicken either!
 
 
-Lesson 51
+## Lesson 51
 A pleasant climate
 
 
@@ -474,7 +474,7 @@ DIMITRI: It's often cold in December, January and February.
          It snows sometimes.
 
 
-Lesson 53
+## Lesson 53
 An interesting climate
 
 HANS: Where do you come from?
@@ -496,7 +496,7 @@ JIM:  I don't like autumn and winter.
       It's our favourite subject of conversation.
 
 
-Lesson 55
+## Lesson 55
 The Sawyer family
 
     The Sawyer live at 87 King Street.
@@ -509,7 +509,7 @@ The Sawyer family
     At night, the children always do their homework. Then they go to bed. Mr. Sawyer usually reads his newspaper, but sometimes he and his wife watch television.
 
 
-Lesson 57
+## Lesson 57
 An unusual day
 
     It is eight o'clock. The children go to school by car every day, but today, they are going to school on foot.
@@ -519,7 +519,7 @@ An unusual day
     It is nine o'clock. Mr. Sawyer usually reads his newspaper at night. But he's not reading his newspaper tonight. At the moment, he's reading an interesting book.
 
 
-Lesson 59
+## Lesson 59
 Is that all?
 
 LADY:           I want some envelopes, please.
@@ -541,7 +541,7 @@ SHOP ASSISTANT: What else do you want?
 LADY:           I want my change.
 
 
-Lesson 61
+## Lesson 61
 A bad cold
 
 MR. WILLIAMS:  Where's Jimmy?
@@ -567,7 +567,7 @@ DOCTOR:        Good news?
 MR. WILLIAMS:  Because he doesn't like school!
 
 
-Lesson 63
+## Lesson 63
 Thank you, doctor.
 
 DOCTOR:         How's Jimmy today?
@@ -591,7 +591,7 @@ MRS. WILLIAMAS: He's in bed, doctor.
                 He has a bad cold, too!
 
 
-Lesson 65
+## Lesson 65
 Not a baby
 
 FATHER: What are you going to do this evening. Jill?
@@ -619,7 +619,7 @@ JILL:   We always enjoy ourselves, Mum.
         Bye-bye.
 
 
-Lesson 67
+## Lesson 67
 The weekend
 
 MRS.JOHNSON: Hello.
@@ -641,7 +641,7 @@ MRS.WILLIAMS:Friday, Saturday and Sunday in the country!
              Aren't you lucky!
 
 
-Lesson 69
+## Lesson 69
 The car race
 
     There is a car race near our town every year. In 1995, there was a very big race.
@@ -651,7 +651,7 @@ The car race
      On the way home, my wife said to me, 'Don't drive so quickly! You're not Billy Stewart!'
 
 
-Lesson 71
+## Lesson 71
 He's awful!
 
 JANE:    What's Ron Marston like,
@@ -673,7 +673,7 @@ JANE:    Did he telephone again?
 PAULINE: No, he didn't!
 
 
-Lesson 73
+## Lesson 73
 The way to King Street
 
     Last week Mrs. Mills went to London. She does not know London very well, and she lost her way.
@@ -684,7 +684,7 @@ The way to King Street
     He opened the book and found a phrase. He read the phrase slowly. 'I am sorry,' he said. 'I do not speak English.'
 
 
-Lesson 75
+## Lesson 75
 Uncomfortable shoes
 
 LADY:           Do you have any shoes like these?
@@ -706,7 +706,7 @@ LADY:           They look very uncomfortable.
 SHOP ASSISTANT: They are very uncomfortable. But women always wear uncomfortable shoes!
 
 
-Lesson 77
+## Lesson 77
 Terrible toothache
 
 NURSE:     Good morning. Mr. Croft.
@@ -733,7 +733,7 @@ NURSE:     I'm afraid that he can't, Mr. Croft.
 MR. CROFT: I can wait, but my toothache can't!
 
 
-Lesson 79
+## Lesson 79
 Carol's shopping list
 
 TOM:   What are you doing, Carol?
@@ -756,7 +756,7 @@ CAROL: I haven't got much.
 TOM:   Well, I haven't got much either!
 
 
-Lesson 81
+## Lesson 81
 Roast beef and potatoes
 
 SAM:   Hi, Carol!
@@ -783,7 +783,7 @@ TOM:   What's the matter, Carol?
 CAROL: Well, you're going to have roast beef and potatoes again tonight!
 
 
-Lesson 83
+## Lesson 83
 Going on holiday
 
 CAROL: Hello, Sam.
@@ -811,7 +811,7 @@ CAROL: Where did you go?
 SAM:   I stayed at home!
 
 
-Lesson 85
+## Lesson 85
 Pairs in the spring
 
 GEORGE: Hello, Ken.
@@ -835,7 +835,7 @@ KEN:    It was spring,
 GEORGE: Just like London!
 
 
-Lesson 87
+## Lesson 87
 A car crash
 
 MR. WOOD:  Is my car ready yet?
@@ -859,7 +859,7 @@ ATTENDANT: Well, they're trying to repair it,
            you need a new car!
 
 
-Lesson 89
+## Lesson 89
 For sale
 
 NIGEL: Good afternoon.
@@ -883,7 +883,7 @@ NIGEL: Well, I like the house.
 IAN:   Women always have the last word.
 
 
-Lesson 91
+## Lesson 91
 Poor Ian!
 
 CATHERING: Has Ian sold his house yet?
@@ -910,7 +910,7 @@ JENNY:     No, he didn't want to leave.
            but his wife did!
 
 
-Lesson 93
+## Lesson 93
 Our new neighbour
 
     Nigel is our new next-door neighbour. He's a pilot.
@@ -923,7 +923,7 @@ Our new neighbour
     Nigel is a very lucky man. But his wife isn't very lucky. She usually stays at home!
 
 
-Lesson 95
+## Lesson 95
 Tickets, please.
 
 GEORGE:    Two return tickets to London,
@@ -952,7 +952,7 @@ GEORGE:    When's the next train?
 PORTER:    In five hours' time!
 
 
-Lesson 97
+## Lesson 97
 A small blue case
 
 MR. MALL:  I left a suitcase on the train to London the other day.
@@ -976,7 +976,7 @@ ATTENDANT: What's matter?
 MR. MALL:  This case doesn't belong to me!
            You've given me the wrong case!
 
-Lesson 99
+## Lesson 99
 Owl!
 
 ANDY: Ow!
@@ -997,7 +997,7 @@ LUCY: The doctor says that he will come at once.
       I'm sure that you need an X-ray, Andy.
 
 
-Lesson 101
+## Lesson 101
 A card from Jimmy
 
 GRANDMOTHER: Read Jimmy's card to me please, penny.
@@ -1021,7 +1021,7 @@ GRANDMOTHER: Is that all?
 PENNY:       He can't write very much on a card, Mum.
 
 
-Lesson 103
+## Lesson 103
 The French test
 
 GARY:    How was the exam, Richard?
@@ -1046,7 +1046,7 @@ RICHARD: Yes?
 GARY:    Then he sat there and looked at it for three hours! He didn't write a word!
 
 
-Lesson 105
+## Lesson 105
 Full of mistakes
 
 THE BOSS: Where's Sandra, Bob?
@@ -1068,7 +1068,7 @@ SANDRA:   What's it?
 THE BOSS: It's a dictionary. I hope it'll help you.
 
 
-Lesson 107
+## Lesson 107
 It's too small.
 
 ASSISTANT: Do you like this dress,
@@ -1090,7 +1090,7 @@ ASSISTANT: I'm afraid I haven't got a larger dress.
            This is the largest dress in the shop.
 
 
-Lesson 109
+## Lesson 109
 A good idea
 
 CHARLOTTE: Shall I make some coffee,
@@ -1120,7 +1120,7 @@ CHARLOTTE: Have a biscuit instead.
 JANE:      That's very good advice!
 
 
-Lesson 111
+## Lesson 111
 The most expensive model
 
 MR. FRITH: I like television very much.
@@ -1146,7 +1146,7 @@ MRS. FRITH:I certainly do,
 MR. FRITH: Millionaires don't buy things on instalments!
 
 
-Lesson 113
+## Lesson 113
 Small change
 
 CONDUCTOR:     Fares, please!
@@ -1171,7 +1171,7 @@ TWO TRAMPS:    Except us.
 2nd  TRAMP:    So have I.
 
 
-Lesson 115
+## Lesson 115
 Knock, knock!
 
 HELEN: Isn't there anyone at home?
@@ -1199,7 +1199,7 @@ TOM:   Don't believe her, Jim.
        She's only joking. Have some beer!
 
 
-Lesson 117
+## Lesson 117
 Tommy's breakfast
 
     When my husband was going into the dining room this morning, he dropped some coins on the floor.
@@ -1210,7 +1210,7 @@ Tommy's breakfast
     'How's Tommy?' he asked. 'I don't know,' I answered, 'Tommy's been to the toilet three times this morning, but I haven't had any change yet!'
 
 
-Lesson 119
+## Lesson 119
 A true story
 
     Do you like stories? I want to tell you a true story. It happened to a friend of mine a year ago.
@@ -1222,7 +1222,7 @@ A true story
     But George's parrot, Henry, was still there. "What's up, George?" the called. 'Nothing, Henry,' George said and smiled. 'Go back to sleep.'
 
 
-Lesson 121
+## Lesson 121
 The man in a hat
 
 CUSTOMER: I bought two expensive dictionaries here half and hour ago, but I forgot to take them with me.
@@ -1242,7 +1242,7 @@ CUSTOMER: Yes.
           I recognize him now.
 
 
-Lesson 123
+## Lesson 123
 A trip to Australia
 
 MIKE:  Look, Scott.
@@ -1268,7 +1268,7 @@ SCOTT: Why did you shave it off?
 MIKE:  My wife didn't like it!
 
 
-Lesson 125
+## Lesson 125
 Tea for two
 
 SUSAN: Can't you come in and have tea now, Peter?
@@ -1293,7 +1293,7 @@ PERTR: That was a pleasant surprise.
        It means I can have tea, instead.
 
 
-Lesson 127
+## Lesson 127
 A famous actress
 
 KATE: Can you recognize that woman,
@@ -1322,7 +1322,7 @@ LIZ:  Not that long ago!
       I'm not more than twenty-nine myself.
 
 
-Lesson 129
+## Lesson 129
 Seventy miles an hour
 
 ANN:       Look, Gary!
@@ -1350,7 +1350,7 @@ GARY:      You always tell me to drive slowly, darling.
 ANN:       Well, next time you'd better take my advice!
 
 
-Lesson 131
+## Lesson 131
 Don't be so sure!
 
 MARTIN: Where are you going to spend your holidays this year,
@@ -1376,7 +1376,7 @@ GART:   Don't be so sure.
         in the end, we stay at home and look after everything!
 
 
-Lesson 133
+## Lesson 133
 Sensational news!
 
 REPORTER:   Have you just made a new film, Miss Marsh?
@@ -1396,7 +1396,7 @@ KATE:       Let's buy a newspaper, Liz.
 LIZ:        I wonder why!
 
 
-Lesson 135
+## Lesson 135
 The latest report
 
 REPORTER:   Are you really going to retire, miss Marsh?
@@ -1418,7 +1418,7 @@ KATE:       It certainly is.
             He'll be her sixth husband!
 
 
-Lesson 137
+## Lesson 137
 A pleasant dream
 
 JULIE: Are you doing the football pools, Brain?
@@ -1438,7 +1438,7 @@ BRIAN: If we spend all the money we'll try and win the football pools again.
 JULIE: It's a pleasant dream but everything depends on 'if'!
 
 
-Lesson 139
+## Lesson 139
 Is that you, John?
 
 GRAHAM TURNER: Is that you, John?
@@ -1460,13 +1460,13 @@ GRAHAM TURNER: You work for the Overseas Engineering Company, don't you?
 JOHN SMITH:    No, I don't I'm John Smith the telephone engineer and I'm repairing your telephone line.
 
 
-Lesson 141
+## Lesson 141
 Sally's first train ride
 
     Last week, my four-year-old daughter, Sally, was invited to a children's party. I decided to take her by train. Sally was very excited because she had never travelled on a train before. She sat near the window and asked questions about everything she saw. Suddenly, a middle-age lady got on the train and sat opposite Sally. 'Hello, little girl,' she said. Sally did not answer, but looked at her curiously. The lady was dressed in a blue coat and a large, funny hat. After the train had left the station, the lady opened her handbag and took to her power compact. She then began to make up her face. 'Why are you doing that?' Sally asked. 'To make myself beautiful,' the lady answered. She put away her compact and smiled kindly. 'But you are still ugly,' Sally said. Sally was amused, but I was very embarrassed!
 
 
-Lesson 143
+## Lesson 143
 A walk through the woods
 
     I live in a very old town which is surrounded by beautiful woods. It is a famous beauty spot. On Sundays, hundreds of people come from the city to see our town and to walk through the woods. Visitors have been asked to keep the woods clean and tidy. Litter baskets have been placed under the trees, but people still throw their rubbish everywhere. Last Wednesday, I went for a walk in the woods. What I saw made me very sad. I counted seven old cars and three old refrigerators. The little baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins. Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecuted!'

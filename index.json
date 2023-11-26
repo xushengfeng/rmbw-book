@@ -46,5 +46,17 @@
         "type": "word",
         "updateTime": 0,
         "sections": [{ "id": "393dd5a4", "title": "CET-4精选", "path": "CET-4精选.txt" }]
+    },
+    "New Concept English": {
+        "name": "新概念英语",
+        "id": "NCE",
+        "type": "text",
+        "updateTime": 0,
+        "sections": [
+            { "id": "01f4e6b2", "title": "1", "path": "新概念/1.txt" },
+            { "id": "bced4b08", "title": "2", "path": "新概念/2.txt" },
+            { "id": "f7b59519", "title": "3", "path": "新概念/3.txt" },
+            { "id": "df6a05c6", "title": "4", "path": "新概念/4.txt" }
+        ]
     }
 }

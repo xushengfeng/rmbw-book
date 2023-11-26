@@ -34,14 +34,14 @@
         "sections": [{ "id": "6e6ed8d4", "title": "高考词汇", "path": "高考词汇.txt" }]
     },
     "PET": {
-        "name": "剑桥PET.txt",
+        "name": "剑桥PET",
         "id": "PET",
         "type": "word",
         "updateTime": 0,
         "sections": [{ "id": "14fa43b1", "title": "剑桥PET", "path": "剑桥PET.txt" }]
     },
     "CET-4 Select": {
-        "name": "CET-4精选.txt",
+        "name": "CET-4精选",
         "id": "CET-4 Select",
         "type": "word",
         "updateTime": 0,

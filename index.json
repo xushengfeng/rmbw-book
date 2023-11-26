@@ -15,15 +15,15 @@
         "name": "人教版",
         "id": "rjb",
         "type": "word",
-        "updateTime": 0,
+        "updateTime": 1700968498560,
         "sections": [
-            { "id": "354d3c2c", "title": "必修", "path": "rjb/必修一.txt" },
-            { "id": "d189103f", "title": "必修", "path": "rjb/必修二.txt" },
-            { "id": "a7f39ac1", "title": "必修", "path": "rjb/必修三.txt" },
-            { "id": "6241f998", "title": "选修", "path": "rjb/选修一.txt" },
-            { "id": "b9b414f8", "title": "选修", "path": "rjb/选修二.txt" },
-            { "id": "203ee3ab", "title": "选修", "path": "rjb/选修三.txt" },
-            { "id": "e53e89c4", "title": "选修", "path": "rjb/选修四.txt" }
+            { "id": "354d3c2c", "title": "必修一", "path": "rjb/必修一.txt" },
+            { "id": "d189103f", "title": "必修二", "path": "rjb/必修二.txt" },
+            { "id": "a7f39ac1", "title": "必修三", "path": "rjb/必修三.txt" },
+            { "id": "6241f998", "title": "选修一", "path": "rjb/选修一.txt" },
+            { "id": "b9b414f8", "title": "选修二", "path": "rjb/选修二.txt" },
+            { "id": "203ee3ab", "title": "选修三", "path": "rjb/选修三.txt" },
+            { "id": "e53e89c4", "title": "选修四", "path": "rjb/选修四.txt" }
         ]
     },
     "gk": {

@@ -51,7 +51,7 @@
         "name": "新概念英语",
         "id": "NCE",
         "type": "text",
-        "updateTime": 0,
+        "updateTime": 1700980245600,
         "sections": [
             { "id": "01f4e6b2", "title": "1", "path": "新概念/1.txt" },
             { "id": "bced4b08", "title": "2", "path": "新概念/2.txt" },

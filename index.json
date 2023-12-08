@@ -1,5 +1,7 @@
 {
-    "ox": {
+    "$schema": "./schema.json",
+    "books":[
+     {
         "name": "牛津3000核心词",
         "id": "ox",
         "type": "word",
@@ -9,9 +11,9 @@
             { "id": "a8388fde", "title": "A2", "path": "ox/Oxford-A2.txt" },
             { "id": "cbf31924", "title": "B1", "path": "ox/Oxford-B1.txt" },
             { "id": "4ad09b94", "title": "B2", "path": "ox/Oxford-B2.txt" }
-        ]
-    },
-    "rjb": {
+        ],
+        "language": "en"
+    }, {
         "name": "人教版",
         "id": "rjb",
         "type": "word",
@@ -24,39 +26,28 @@
             { "id": "b9b414f8", "title": "选修二", "path": "rjb/选修二.txt" },
             { "id": "203ee3ab", "title": "选修三", "path": "rjb/选修三.txt" },
             { "id": "e53e89c4", "title": "选修四", "path": "rjb/选修四.txt" }
-        ]
-    },
-    "gk": {
+        ],
+        "language": "en"
+    },{
         "name": "高考词汇",
         "id": "gk",
         "type": "word",
         "updateTime": 0,
-        "sections": [{ "id": "6e6ed8d4", "title": "高考词汇", "path": "高考词汇.txt" }]
-    },
-    "PET": {
+        "sections": [{ "id": "6e6ed8d4", "title": "高考词汇", "path": "高考词汇.txt" }],
+        "language": "en"
+    }, {
         "name": "剑桥PET",
         "id": "PET",
         "type": "word",
         "updateTime": 0,
-        "sections": [{ "id": "14fa43b1", "title": "剑桥PET", "path": "剑桥PET.txt" }]
-    },
-    "CET-4 Select": {
+        "sections": [{ "id": "14fa43b1", "title": "剑桥PET", "path": "剑桥PET.txt" }],
+        "language": "en"
+    }, {
         "name": "CET-4精选",
         "id": "CET-4 Select",
         "type": "word",
         "updateTime": 0,
-        "sections": [{ "id": "393dd5a4", "title": "CET-4精选", "path": "CET-4精选.txt" }]
-    },
-    "New Concept English": {
-        "name": "新概念英语",
-        "id": "NCE",
-        "type": "text",
-        "updateTime": 1700980245600,
-        "sections": [
-            { "id": "01f4e6b2", "title": "1", "path": "新概念/1.txt" },
-            { "id": "bced4b08", "title": "2", "path": "新概念/2.txt" },
-            { "id": "f7b59519", "title": "3", "path": "新概念/3.txt" },
-            { "id": "df6a05c6", "title": "4", "path": "新概念/4.txt" }
-        ]
-    }
+        "sections": [{ "id": "393dd5a4", "title": "CET-4精选", "path": "CET-4精选.txt" }],
+        "language": "en"
+    }]
 }

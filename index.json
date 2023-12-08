@@ -1,53 +1,138 @@
 {
     "$schema": "./schema.json",
-    "books":[
-     {
-        "name": "牛津3000核心词",
-        "id": "ox",
-        "type": "word",
-        "updateTime": 0,
-        "sections": [
-            { "id": "f64fea63", "title": "A1", "path": "ox/Oxford-A1.txt" },
-            { "id": "a8388fde", "title": "A2", "path": "ox/Oxford-A2.txt" },
-            { "id": "cbf31924", "title": "B1", "path": "ox/Oxford-B1.txt" },
-            { "id": "4ad09b94", "title": "B2", "path": "ox/Oxford-B2.txt" }
-        ],
-        "language": "en"
-    }, {
-        "name": "人教版",
-        "id": "rjb",
-        "type": "word",
-        "updateTime": 1700968498560,
-        "sections": [
-            { "id": "354d3c2c", "title": "必修一", "path": "rjb/必修一.txt" },
-            { "id": "d189103f", "title": "必修二", "path": "rjb/必修二.txt" },
-            { "id": "a7f39ac1", "title": "必修三", "path": "rjb/必修三.txt" },
-            { "id": "6241f998", "title": "选修一", "path": "rjb/选修一.txt" },
-            { "id": "b9b414f8", "title": "选修二", "path": "rjb/选修二.txt" },
-            { "id": "203ee3ab", "title": "选修三", "path": "rjb/选修三.txt" },
-            { "id": "e53e89c4", "title": "选修四", "path": "rjb/选修四.txt" }
-        ],
-        "language": "en"
-    },{
-        "name": "高考词汇",
-        "id": "gk",
-        "type": "word",
-        "updateTime": 0,
-        "sections": [{ "id": "6e6ed8d4", "title": "高考词汇", "path": "高考词汇.txt" }],
-        "language": "en"
-    }, {
-        "name": "剑桥PET",
-        "id": "PET",
-        "type": "word",
-        "updateTime": 0,
-        "sections": [{ "id": "14fa43b1", "title": "剑桥PET", "path": "剑桥PET.txt" }],
-        "language": "en"
-    }, {
-        "name": "CET-4精选",
-        "id": "CET-4 Select",
-        "type": "word",
-        "updateTime": 0,
-        "sections": [{ "id": "393dd5a4", "title": "CET-4精选", "path": "CET-4精选.txt" }],
-        "language": "en"
-    }]
+    "books": [
+        {
+            "name": "牛津3000核心词",
+            "id": "ox",
+            "type": "word",
+            "updateTime": 0,
+            "sections": [
+                { "id": "f64fea63", "title": "A1", "path": "ox/Oxford-A1.txt" },
+                { "id": "a8388fde", "title": "A2", "path": "ox/Oxford-A2.txt" },
+                { "id": "cbf31924", "title": "B1", "path": "ox/Oxford-B1.txt" },
+                { "id": "4ad09b94", "title": "B2", "path": "ox/Oxford-B2.txt" }
+            ],
+            "language": "en"
+        },
+        {
+            "name": "人教版",
+            "id": "rjb",
+            "type": "word",
+            "updateTime": 1700968498560,
+            "sections": [
+                { "id": "354d3c2c", "title": "必修一", "path": "rjb/必修一.txt" },
+                { "id": "d189103f", "title": "必修二", "path": "rjb/必修二.txt" },
+                { "id": "a7f39ac1", "title": "必修三", "path": "rjb/必修三.txt" },
+                { "id": "6241f998", "title": "选修一", "path": "rjb/选修一.txt" },
+                { "id": "b9b414f8", "title": "选修二", "path": "rjb/选修二.txt" },
+                { "id": "203ee3ab", "title": "选修三", "path": "rjb/选修三.txt" },
+                { "id": "e53e89c4", "title": "选修四", "path": "rjb/选修四.txt" }
+            ],
+            "language": "en"
+        },
+        {
+            "name": "高考词汇",
+            "id": "gk",
+            "type": "word",
+            "updateTime": 0,
+            "sections": [{ "id": "6e6ed8d4", "title": "高考词汇", "path": "高考词汇.txt" }],
+            "language": "en"
+        },
+        {
+            "name": "剑桥PET",
+            "id": "PET",
+            "type": "word",
+            "updateTime": 0,
+            "sections": [{ "id": "14fa43b1", "title": "剑桥PET", "path": "剑桥PET.txt" }],
+            "language": "en"
+        },
+        {
+            "name": "CET-4精选",
+            "id": "CET-4 Select",
+            "type": "word",
+            "updateTime": 0,
+            "sections": [{ "id": "393dd5a4", "title": "CET-4精选", "path": "CET-4精选.txt" }],
+            "language": "en"
+        },
+        {
+            "name": "新概念英语一",
+            "id": "NCE1",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "nce11", "title": "1", "path": "新概念/1/1.txt" },
+                { "id": "nce11", "title": "1", "path": "新概念/1/1.txt" },
+                { "id": "nce13", "title": "3", "path": "新概念/1/3.txt" },
+                { "id": "nce15", "title": "5", "path": "新概念/1/5.txt" },
+                { "id": "nce17", "title": "7", "path": "新概念/1/7.txt" },
+                { "id": "nce19", "title": "9", "path": "新概念/1/9.txt" },
+                { "id": "nce111", "title": "11", "path": "新概念/1/11.txt" },
+                { "id": "nce113", "title": "13", "path": "新概念/1/13.txt" },
+                { "id": "nce115", "title": "15", "path": "新概念/1/15.txt" },
+                { "id": "nce117", "title": "17", "path": "新概念/1/17.txt" },
+                { "id": "nce119", "title": "19", "path": "新概念/1/19.txt" },
+                { "id": "nce121", "title": "21", "path": "新概念/1/21.txt" },
+                { "id": "nce123", "title": "23", "path": "新概念/1/23.txt" },
+                { "id": "nce125", "title": "25", "path": "新概念/1/25.txt" },
+                { "id": "nce127", "title": "27", "path": "新概念/1/27.txt" },
+                { "id": "nce129", "title": "29", "path": "新概念/1/29.txt" },
+                { "id": "nce131", "title": "31", "path": "新概念/1/31.txt" },
+                { "id": "nce133", "title": "33", "path": "新概念/1/33.txt" },
+                { "id": "nce135", "title": "35", "path": "新概念/1/35.txt" },
+                { "id": "nce137", "title": "37", "path": "新概念/1/37.txt" },
+                { "id": "nce141", "title": "41", "path": "新概念/1/41.txt" },
+                { "id": "nce143", "title": "43", "path": "新概念/1/43.txt" },
+                { "id": "nce145", "title": "45", "path": "新概念/1/45.txt" },
+                { "id": "nce147", "title": "47", "path": "新概念/1/47.txt" },
+                { "id": "nce149", "title": "49", "path": "新概念/1/49.txt" },
+                { "id": "nce151", "title": "51", "path": "新概念/1/51.txt" },
+                { "id": "nce153", "title": "53", "path": "新概念/1/53.txt" },
+                { "id": "nce155", "title": "55", "path": "新概念/1/55.txt" },
+                { "id": "nce157", "title": "57", "path": "新概念/1/57.txt" },
+                { "id": "nce159", "title": "59", "path": "新概念/1/59.txt" },
+                { "id": "nce161", "title": "61", "path": "新概念/1/61.txt" },
+                { "id": "nce163", "title": "63", "path": "新概念/1/63.txt" },
+                { "id": "nce165", "title": "65", "path": "新概念/1/65.txt" },
+                { "id": "nce167", "title": "67", "path": "新概念/1/67.txt" },
+                { "id": "nce169", "title": "69", "path": "新概念/1/69.txt" },
+                { "id": "nce171", "title": "71", "path": "新概念/1/71.txt" },
+                { "id": "nce173", "title": "73", "path": "新概念/1/73.txt" },
+                { "id": "nce175", "title": "75", "path": "新概念/1/75.txt" },
+                { "id": "nce177", "title": "77", "path": "新概念/1/77.txt" },
+                { "id": "nce179", "title": "79", "path": "新概念/1/79.txt" },
+                { "id": "nce181", "title": "81", "path": "新概念/1/81.txt" },
+                { "id": "nce183", "title": "83", "path": "新概念/1/83.txt" },
+                { "id": "nce185", "title": "85", "path": "新概念/1/85.txt" },
+                { "id": "nce187", "title": "87", "path": "新概念/1/87.txt" },
+                { "id": "nce189", "title": "89", "path": "新概念/1/89.txt" },
+                { "id": "nce191", "title": "91", "path": "新概念/1/91.txt" },
+                { "id": "nce193", "title": "93", "path": "新概念/1/93.txt" },
+                { "id": "nce195", "title": "95", "path": "新概念/1/95.txt" },
+                { "id": "nce197", "title": "97", "path": "新概念/1/97.txt" },
+                { "id": "nce199", "title": "99", "path": "新概念/1/99.txt" },
+                { "id": "nce1101", "title": "101", "path": "新概念/1/101.txt" },
+                { "id": "nce1103", "title": "103", "path": "新概念/1/103.txt" },
+                { "id": "nce1105", "title": "105", "path": "新概念/1/105.txt" },
+                { "id": "nce1107", "title": "107", "path": "新概念/1/107.txt" },
+                { "id": "nce1109", "title": "109", "path": "新概念/1/109.txt" },
+                { "id": "nce1111", "title": "111", "path": "新概念/1/111.txt" },
+                { "id": "nce1113", "title": "113", "path": "新概念/1/113.txt" },
+                { "id": "nce1115", "title": "115", "path": "新概念/1/115.txt" },
+                { "id": "nce1117", "title": "117", "path": "新概念/1/117.txt" },
+                { "id": "nce1119", "title": "119", "path": "新概念/1/119.txt" },
+                { "id": "nce1121", "title": "121", "path": "新概念/1/121.txt" },
+                { "id": "nce1123", "title": "123", "path": "新概念/1/123.txt" },
+                { "id": "nce1125", "title": "125", "path": "新概念/1/125.txt" },
+                { "id": "nce1127", "title": "127", "path": "新概念/1/127.txt" },
+                { "id": "nce1129", "title": "129", "path": "新概念/1/129.txt" },
+                { "id": "nce1131", "title": "131", "path": "新概念/1/131.txt" },
+                { "id": "nce1133", "title": "133", "path": "新概念/1/133.txt" },
+                { "id": "nce1135", "title": "135", "path": "新概念/1/135.txt" },
+                { "id": "nce1137", "title": "137", "path": "新概念/1/137.txt" },
+                { "id": "nce1139", "title": "139", "path": "新概念/1/139.txt" },
+                { "id": "nce1141", "title": "141", "path": "新概念/1/141.txt" }
+            ],
+            "language": "en"
+        }
+    ]
 }

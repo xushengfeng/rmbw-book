@@ -17,6 +17,9 @@
                         "type": "string",
                         "enum": ["word", "text"]
                     },
+                    "cover": {
+                        "type": "string"
+                    },
                     "updateTime": {
                         "type": "integer"
                     },

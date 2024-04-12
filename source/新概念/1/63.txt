@@ -1,6 +1,3 @@
-## Lesson 63
-Thank you, doctor.
-
 DOCTOR:         How's Jimmy today?
 MRS. WILLIAMAS: Better. Thank you, Doctor.
 DOCTOR:         Can I see him please,

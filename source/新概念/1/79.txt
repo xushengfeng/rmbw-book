@@ -1,6 +1,3 @@
-## Lesson 79
-Carol's shopping list
-
 TOM:   What are you doing, Carol?
 CAROL: I'm making a shopping list, Tom.
 TOM:   What do we need?

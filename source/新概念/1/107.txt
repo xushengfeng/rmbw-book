@@ -1,6 +1,3 @@
-## Lesson 107
-It's too small.
-
 ASSISTANT: Do you like this dress,
            madam?
 LADY:      I like the colour very much.

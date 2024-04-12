@@ -1,6 +1,3 @@
-## Lesson 11
-Is this your shirt?
-
 HEACHER: Whose shirt is that?
 HEACHER: Is this your shirt, Dave?
 DAVE:    No. Sir.

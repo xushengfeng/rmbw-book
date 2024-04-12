@@ -1,6 +1,3 @@
-## Lesson 113
-Small change
-
 CONDUCTOR:     Fares, please!
 MAN:           Trafalgar Square, please.
 CONDUCTOR:     I'm sorry, sir.

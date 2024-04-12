@@ -1,6 +1,3 @@
-## Lesson 21
-Which book?
-
 MAN:   Give me a book please, Jane.
 WOMAN: Which book?
 WOMAN: This one?

@@ -1,6 +1,3 @@
-## Lesson 33
-A fine day
-
   It is a fine day today.
   There are some clouds in the sky,
   but the sun is shining.

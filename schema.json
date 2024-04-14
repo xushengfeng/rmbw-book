@@ -44,6 +44,12 @@
                     },
                     "language": {
                         "type": "string"
+                    },
+                    "coverage": {
+                        "type": "object",
+                        "patternProperties": {
+                            ".*": { "type": "number" }
+                        }
                     }
                 },
                 "additionalProperties": false,

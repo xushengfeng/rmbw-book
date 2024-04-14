@@ -1,0 +1,5 @@
+{
+    "devDependencies": {
+        "lemmatizer": "^0.0.1"
+    }
+}

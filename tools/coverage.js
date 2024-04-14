@@ -3,11 +3,18 @@ const path = require("path");
 const lemmatizer = require("lemmatizer");
 const index = JSON.parse(fs.readFileSync("index.json").toString());
 
-console.log(lemmatizer.lemmatizer("doing"));
+const booksId = process.argv.slice(2);
+let booksWords = [];
+
+let titleMap = {};
 
 let words = {};
 
 for (let b of index.books) {
+    titleMap[b.id] = b.name;
+    for (let s of b.sections) {
+        titleMap[s.id] = s.title;
+    }
     if (b.type === "word") {
         for (let s of b.sections) {
             const wordL = fs.readFileSync(path.join(__dirname, "../source/", s.path)).toString().trim().split("\n");
@@ -27,16 +34,29 @@ for (let b of index.books) {
             const wordL2 = wordL.map((w) => lemmatizer.lemmatizer(w));
             bwords = bwords.concat(wordL).concat(wordL2);
         }
+        if (booksId.includes(b.id)) booksWords = booksWords.concat(bwords);
         let c = {};
         b["coverage"] = c;
+        console.log("\n" + b.name);
         for (let i in words) {
-            c[i] = intersectionCount(words[i], bwords) / words[i].length;
+            const n = intersectionCount(words[i], bwords);
+            c[i] = n / words[i].length;
+            console.log(`${titleMap[i]}: ${n}/${words[i].length}=${c[i] * 100}%`);
         }
         b.updateTime = new Date().getTime();
     }
 }
 
-fs.writeFileSync("index.json", JSON.stringify(index));
+if (booksId.length === 0) fs.writeFileSync("index.json", JSON.stringify(index));
+else {
+    console.log("\n" + booksId.map((b) => titleMap[b]).join(" "));
+    let c = {};
+    for (let i in words) {
+        const n = intersectionCount(words[i], booksWords);
+        c[i] = n / words[i].length;
+        console.log(`${titleMap[i]}: ${n}/${words[i].length}=${c[i] * 100}%`);
+    }
+}
 
 /**
  * @param {string[]} a

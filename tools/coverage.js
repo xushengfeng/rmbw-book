@@ -40,8 +40,8 @@ for (let b of index.books) {
         console.log("\n" + b.name);
         for (let i in words) {
             const n = intersectionCount(words[i], bwords);
-            c[i] = n / words[i].length;
-            console.log(`${titleMap[i]}: ${n}/${words[i].length}=${c[i] * 100}%`);
+            c[i] = [n, words[i].length];
+            console.log(`${titleMap[i]}: ${n}/${words[i].length}=${(n / words[i].length) * 100}%`);
         }
         b.updateTime = new Date().getTime();
     }

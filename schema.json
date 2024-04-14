@@ -48,7 +48,10 @@
                     "coverage": {
                         "type": "object",
                         "patternProperties": {
-                            ".*": { "type": "number" }
+                            ".*": {
+                                "type": "array",
+                                "items": [{ "type": "number" }, { "type": "number" }]
+                            }
                         }
                     }
                 },

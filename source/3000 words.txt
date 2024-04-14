@@ -56,7 +56,7 @@ advance
 advantage
 adventure
 advertise
-advertisement(ad)
+advertisement
 advice
 advise
 advocate
@@ -276,7 +276,8 @@ before
 begin
 behalf
 behave
-behaviour(behavior)
+behaviour
+behavior
 behind
 being
 belief
@@ -361,7 +362,8 @@ breast
 breath
 breathe
 brick
-bride / bridegroom
+bride
+bridegroom
 bridge
 brief
 bright
@@ -460,7 +462,8 @@ certainly
 certificate
 chain
 chair
-chairman / chairwoman
+chairman
+chairwoman
 chalk
 challenge
 champion
@@ -793,7 +796,7 @@ dinosaur
 direct
 direction
 director
-directory 
+directory
 dirty
 disability
 disabled
@@ -2002,7 +2005,8 @@ poison
 polar
 pole
 police
-policeman / policewoman
+policeman
+policewoman
 policy
 polish
 polite
@@ -2292,7 +2296,8 @@ sail
 salad
 salary
 sale
-salesman / saleswoman
+salesman
+saleswoman
 salt
 salty
 same
@@ -2752,7 +2757,8 @@ tough
 tour
 tourist
 tournament
-toward(s)
+toward
+towards
 towel
 tower
 town

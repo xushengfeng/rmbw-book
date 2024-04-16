@@ -468,6 +468,43 @@
             ]
         },
         {
+            "name": "人教版高中选择性必修二",
+            "id": "rjbgz12",
+            "language": "en",
+            "type": "text",
+            "updateTime": 0,
+            "note": "todo word book",
+            "sections": [
+                { "id": "rjbgz12117c9a", "title": "JOHN SNOW DEFEATS “KING CHOLERA”", "path": "rjbgz/12.1.1.md" },
+                { "id": "rjbgz12e3fab8", "title": "THE FATHER OF CHINA’S AEROSPACE", "path": "rjbgz/12.1.2.0.md" },
+                { "id": "rjbgz12445fe1", "title": "A WORLD OF PURE THOUGHT", "path": "rjbgz/12.1.2.1.md" },
+                {
+                    "id": "rjbgz129c956a",
+                    "title": "“WELCOME, XIE LEI!” BUSINESS STUDENT BUILDING BRIDGES",
+                    "path": "rjbgz/12.2.1.md"
+                },
+                {
+                    "id": "rjbgz121df2c6",
+                    "title": "STUDYING ABROAD: IS IT A GOOD OR A BAD IDEA?",
+                    "path": "rjbgz/12.2.2.md"
+                },
+                { "id": "rjbgz1240a6f1", "title": "CULTURE AND CUISINE", "path": "rjbgz/12.3.1.md" },
+                { "id": "rjbgz12545573", "title": "HEALTHY EATING", "path": "rjbgz/12.3.2.md" },
+                {
+                    "id": "rjbgz12cc009e",
+                    "title": "SEEING THE TRUE NORTH VIA RAIL: VANCOUVER AND THE HEART OF CANADA",
+                    "path": "rjbgz/12.4.1.md"
+                },
+                {
+                    "id": "rjbgz1299fd72",
+                    "title": "SEEING THE TRUE NORTH VIA RAIL: TORONTO AND MONTREAL",
+                    "path": "rjbgz/12.4.2.md"
+                },
+                { "id": "rjbgz125b7996", "title": "FIRST AID FOR BURNS", "path": "rjbgz/12.5.1.md" },
+                { "id": "rjbgz12b2e179", "title": "STORY ABOUT PROVIDING FIRST AID", "path": "rjbgz/12.5.2.md" }
+            ]
+        },
+        {
             "name": "人教版高中选修一",
             "id": "rjbgz21",
             "language": "en",

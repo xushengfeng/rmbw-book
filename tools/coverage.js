@@ -1,5 +1,5 @@
 const fs = require("fs");
-const path = require("path");
+const { getFile, writeFile } = require("./until");
 const lemmatizer = require("lemmatizer");
 const index = JSON.parse(fs.readFileSync("index.json").toString());
 
@@ -17,7 +17,7 @@ for (let b of index.books) {
     }
     if (b.type === "word") {
         for (let s of b.sections) {
-            const wordL = fs.readFileSync(path.join(__dirname, "../source/", s.path)).toString().trim().split("\n");
+            const wordL = getFile(s.path).trim().split("\n");
             words[s.id] = wordL;
         }
     }
@@ -29,7 +29,7 @@ for (let b of index.books) {
         /*** @type string[]*/
         let bwords = [];
         for (let s of b.sections) {
-            const word = fs.readFileSync(path.join(__dirname, "../source/", s.path)).toString();
+            const word = getFile(s.path);
             const wordL = Array.from(segmenter.segment(word)).map((i) => i.segment);
             const wordL2 = wordL.map((w) => lemmatizer.lemmatizer(w));
             bwords = bwords.concat(wordL).concat(wordL2);

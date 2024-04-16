@@ -1,6 +1,6 @@
 const fs = require("fs");
-const index = JSON.parse(fs.readFileSync("index.json").toString());
-const { getFile, writeFile } = require("./until");
+const { getFile, writeFile, getIndex } = require("./until");
+const index = getIndex();
 
 for (let b of index.books) {
     if (b.type === "text") {

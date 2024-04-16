@@ -1,7 +1,7 @@
 const fs = require("fs");
-const { getFile, writeFile } = require("./until");
+const { getFile, getIndex } = require("./until");
 const lemmatizer = require("lemmatizer");
-const index = JSON.parse(fs.readFileSync("index.json").toString());
+const index = getIndex();
 
 const booksId = process.argv.slice(2);
 let booksWords = [];

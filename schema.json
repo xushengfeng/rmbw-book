@@ -20,6 +20,12 @@
                     "cover": {
                         "type": "string"
                     },
+                    "note": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    },
                     "updateTime": {
                         "type": "integer"
                     },

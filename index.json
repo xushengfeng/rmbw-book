@@ -446,7 +446,7 @@
             "type": "text",
             "updateTime": 0,
             "note": "todo word book",
-            "cover": "/source/rjbgz/11.svg",
+            "cover": "rjbgz/11.svg",
             "sections": [
                 { "id": "rjbgz11879340", "title": "TU YOUYOU AWARDED NOBEL PRIZE", "path": "rjbgz/11.1.1.md" },
                 {
@@ -475,7 +475,7 @@
             "type": "text",
             "updateTime": 0,
             "note": "todo word book",
-            "cover": "/source/rjbgz/12.svg",
+            "cover": "rjbgz/12.svg",
             "sections": [
                 { "id": "rjbgz12117c9a", "title": "JOHN SNOW DEFEATS “KING CHOLERA”", "path": "rjbgz/12.1.1.md" },
                 { "id": "rjbgz12e3fab8", "title": "THE FATHER OF CHINA’S AEROSPACE", "path": "rjbgz/12.1.2.0.md" },

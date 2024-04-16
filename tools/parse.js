@@ -10,9 +10,10 @@ for (let b of index.books) {
         if (booksId.includes(b.id)) matchBook = true;
         for (let s of b.sections) {
             if (matchBook || booksId.includes(s.id)) {
-                const text = getFile(s.path);
-                const n = text.replace(/([,.!?])([A-Za-z])/g, "$1 $2");
-                writeFile(s.path, n);
+                let text = getFile(s.path);
+                text = text.replace(/([,.!?])([A-Za-z])/g, "$1 $2");
+                text = text.replace(/ +/g, " ");
+                writeFile(s.path, text);
             }
         }
     }

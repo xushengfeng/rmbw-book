@@ -507,6 +507,38 @@
             ]
         },
         {
+            "name": "人教版高中选择性必修三",
+            "id": "rjbgz13",
+            "language": "en",
+            "type": "text",
+            "updateTime": 0,
+            "note": "todo word book",
+            "cover": "rjbgz/13.svg",
+            "sections": [
+                { "id": "rjbgz1356d831", "title": "A SHORT HISTORY OF WESTERN PAINTING", "path": "rjbgz/13.1.1.md" },
+                { "id": "rjbgz13608021", "title": "ANCIENT CHINESE ART ON SHOW", "path": "rjbgz/13.1.2.md" },
+                { "id": "rjbgz136e35d8", "title": "HABITS FOR A HEALTHY LIFESTYLE", "path": "rjbgz/13.2.1.md" },
+                {
+                    "id": "rjbgz13a7a218",
+                    "title": "Write a letter to the editor about your lifestyle",
+                    "path": "rjbgz/13.2.2.md"
+                },
+                {
+                    "id": "rjbgz1372f928",
+                    "title": "CLIMATE CHANGE REQUIRES THE WORLD’S ATTENTION",
+                    "path": "rjbgz/13.3.1.md"
+                },
+                {
+                    "id": "rjbgz13b62464",
+                    "title": "REDUCING WATER POLLUTION IN THE LI RIVER",
+                    "path": "rjbgz/13.3.2.md"
+                },
+                { "id": "rjbgz13a6b0da", "title": "A SUCCESSFUL FAILURE", "path": "rjbgz/13.4.1.md" },
+                { "id": "rjbgz133da3c0", "title": "THE REWARD FOR PERSEVERANCE", "path": "rjbgz/13.4.2.md" },
+                { "id": "rjbgz13b4c418", "title": "A FEW SIMPLE FORMS OF ENGLISH POEMS", "path": "rjbgz/13.5.1.md" }
+            ]
+        },
+        {
             "name": "人教版高中选修一",
             "id": "rjbgz21",
             "language": "en",

@@ -523,6 +523,17 @@
                 { "id": "rjbgz21f3e7e4", "title": "SUNRISE IN THE BLUE MOUNTAINS", "path": "rjbgz/21.1.4.md" },
                 { "id": "rjbgz219e7f8a", "title": "GOOSEBERRIES", "path": "rjbgz/21.2.1.md" }
             ]
+        },
+        {
+            "name": "英语",
+            "id": "en",
+            "language": "en",
+            "type": "package",
+            "updateTime": 0,
+            "sections": [
+                { "id": "ipa", "title": "", "path": "package/en/ipa.json" },
+                { "id": "variant", "title": "", "path": "package/en/variant.json" }
+            ]
         }
     ]
 }

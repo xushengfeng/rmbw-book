@@ -15,7 +15,7 @@
                     },
                     "type": {
                         "type": "string",
-                        "enum": ["word", "text"]
+                        "enum": ["word", "text", "package"]
                     },
                     "cover": {
                         "type": "string"

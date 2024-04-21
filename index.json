@@ -539,6 +539,31 @@
             ]
         },
         {
+            "name": "人教版高中选择性必修四",
+            "id": "rjbgz14",
+            "language": "en",
+            "type": "text",
+            "updateTime": 0,
+            "note": "todo word book",
+            "cover": "rjbgz/14.svg",
+            "sections": [
+                { "id": "rjbgz14c2c557", "title": "SATISFACTION GUARANTEED", "path": "rjbgz/14.1.1.md" },
+                { "id": "rjbgz14aef45a", "title": "THE TIME MACHINE", "path": "rjbgz/14.1.2.md" },
+                { "id": "rjbgz14677f90", "title": "BLOGS ABOUT AUSTRALIA", "path": "rjbgz/14.2.1.md" },
+                { "id": "rjbgz148354ee", "title": "THE AMAZING ANIMALS OF AUSTRALIA", "path": "rjbgz/14.2.2.md" },
+                { "id": "rjbgz14d4687b", "title": "REACHING OUT ACROSS THE SEA", "path": "rjbgz/14.3.1.md" },
+                {
+                    "id": "rjbgz144319a3",
+                    "title": "Express your opinions on sea exploration",
+                    "path": "rjbgz/14.3.2.md"
+                },
+                { "id": "rjbgz14eab47a", "title": "VOLUNTEERING IN THE BUSH", "path": "rjbgz/14.4.1.md" },
+                { "id": "rjbgz147adc70", "title": "China’s aid to other countries", "path": "rjbgz/14.4.2.md" },
+                { "id": "rjbgz14d16173", "title": "WORKING OUT WHAT YOU WANT TO DO", "path": "rjbgz/14.5.1.md" },
+                { "id": "rjbgz1446dcbe", "title": "", "path": "rjbgz/14.5.2.md" }
+            ]
+        },
+        {
             "name": "人教版高中选修一",
             "id": "rjbgz21",
             "language": "en",

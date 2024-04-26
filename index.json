@@ -50,11 +50,16 @@
             "language": "en"
         },
         {
-            "name": "CET-4精选",
-            "id": "CET-4 Select",
+            "name": "CET",
+            "id": "CET",
             "type": "word",
             "updateTime": 0,
-            "sections": [{ "id": "393dd5a4", "title": "CET-4精选", "path": "CET-4精选.txt" }],
+            "sections": [
+                { "id": "cet4s", "title": "CET-4精选", "path": "CET/CET-4精选.txt" },
+                { "id": "cet4", "title": "CET4", "path": "CET/CET4.txt" },
+                { "id": "cet6", "title": "CET6", "path": "CET/CET6.txt" },
+                { "id": "cet46", "title": "CET", "path": "CET/CET_4+6.txt" }
+            ],
             "language": "en"
         },
         {

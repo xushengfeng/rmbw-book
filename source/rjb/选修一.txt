@@ -239,7 +239,6 @@ component
 tone
 hybrid
 devote
-devote...to
 shortage
 tackle
 crisis

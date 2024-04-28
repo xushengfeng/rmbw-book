@@ -1,7 +1,6 @@
 lantern
 carnival
 costume
-dress up
 march
 congratulation
 congratulate
@@ -9,9 +8,7 @@ riddle
 ceremony
 samba
 make-up
-after all
 range
-range from
 origin
 religion
 religious
@@ -31,39 +28,29 @@ decorate
 church
 significant
 fade
-fade away
 typical
 firecracker
 evil
-in spite of
 commercial
 commercialize
 commercialisation
-take advantage of
 medium
-the media
 reflect
 belief
 faith
 occasion
-have in common
 atmosphere
 lunar
 eve
 envelope
-Christmas carol
 merry
 pumpkin
 pudding
-mashed potatoes
 roast
 turkey
 pleased
 firework
 frank
-to be frank
-go off
-except for
 inner
 autonomous
 region
@@ -71,7 +58,6 @@ represent
 wrestling
 wrestle
 archery
-set off
 fancy
 robe
 eagle
@@ -91,12 +77,10 @@ Thanksgiving
 moral
 virtue
 dilemma
-moral dilemma
 faint
 illustrate
 precious
 entrust
-carry through
 marriage
 majority
 complain
@@ -120,7 +104,6 @@ election
 decade
 elsewhere
 tend
-tend to
 publish
 staff
 retire
@@ -145,11 +128,8 @@ lap
 bite
 lip
 assist
-first aid
-pass away
 chairman
 memory
-in memory of
 chain
 cafe
 waitress
@@ -158,15 +138,11 @@ disguise
 maple
 cart
 spill
-trip over
 limp
 tear
-in tears
 harm
 despair
-in despair
 might
-a great deal
 fable
 court
 flexible
@@ -174,12 +150,9 @@ income
 per
 therefore
 tension
-the North Pole
-the South Pole
 diverse
 diversity
 fortune
-fortune cookie
 gumbo
 nacho
 chip
@@ -195,12 +168,9 @@ district
 graffiti
 comic
 afterwards
-head to
 historical
 seek
-seek one's fortune
 earn
-earn a living
 immigrant
 select
 china
@@ -210,11 +180,8 @@ diagram
 journal
 claim
 series
-apart from
-aside from
 minority
 escape
-bring about
 Atlantic
 financial
 poetry
@@ -234,12 +201,9 @@ mild
 settle
 construction
 material
-to name but a few
-tai chi
 clothing
 herbal
 suit
-at first hand
 item
 contain
 neat
@@ -267,9 +231,7 @@ transmit
 data
 disappointed
 desire
-carry on
 ongoing
-on board
 independently
 independent
 spacecraft
@@ -277,8 +239,6 @@ spacewalk
 jade
 dock
 signal
-in the hope of
-so as to
 recycle
 muscle
 lack
@@ -286,9 +246,7 @@ float
 otherwise
 beyond
 solar
-solar system
 current
-figure out
 sufficient
 soap
 towel
@@ -301,10 +259,8 @@ argue
 argument
 fatal
 shallow
-result in
 pattern
 analysis
-as a result
 high-end
 monitor
 regularly
@@ -314,30 +270,23 @@ pillow
 smartphone
 resource
 limited
-provide for
 closing
 mystery
-run out
 attach
 oxygen
 Mars
 Jupiter
 basis
-on the basis of
 loan
 plastic
 apologise
 ignore
-in return
 judge
 scene
 narrator
 narration
 bet
-make a bet
 servant
-as a matter of fact
-by accident
 sail
 spot
 consulate
@@ -345,9 +294,7 @@ dare
 sort
 mining
 patience
-to be honest
 ought
-be about to
 indicate
 beneath
 postpone
@@ -355,16 +302,13 @@ odd
 obligation
 intention
 nowhere
-in case
 extent
-to ... extent
 opera
 musical
 dinosaur
 hug
 pursue
 duty
-on duty
 hesitate
 sequence
 eventually
@@ -375,12 +319,10 @@ downstairs
 stair
 aside
 frown
-in that case
 option
 broad
 indeed
 normal
-be willing to
 element
 plot
 ambassador

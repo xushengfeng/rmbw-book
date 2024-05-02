@@ -1,5 +1,5 @@
-const fs = require("fs");
-const { getFile, writeFile, getIndex } = require("./until");
+import { writeFileSync } from "fs";
+import { getFile, writeFile, getIndex } from "./until.mjs";
 const index = getIndex();
 
 for (let b of index.books) {
@@ -17,4 +17,4 @@ for (let b of index.books) {
     }
 }
 
-fs.writeFileSync("index.json", JSON.stringify(index));
+writeFileSync("index.json", JSON.stringify(index));

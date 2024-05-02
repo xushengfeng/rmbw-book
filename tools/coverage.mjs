@@ -1,6 +1,6 @@
-const fs = require("fs");
-const { getFile, getIndex } = require("./until");
-const lemmatizer = require("lemmatizer");
+import { writeFileSync } from "fs";
+import { getFile, getIndex } from "./until.mjs";
+import { lemmatizer as _lemmatizer } from "lemmatizer";
 const index = getIndex();
 
 const booksId = process.argv.slice(2);
@@ -31,7 +31,7 @@ for (let b of index.books) {
         for (let s of b.sections) {
             const word = getFile(s.path);
             const wordL = Array.from(segmenter.segment(word)).map((i) => i.segment);
-            const wordL2 = wordL.map((w) => lemmatizer.lemmatizer(w));
+            const wordL2 = wordL.map((w) => _lemmatizer(w));
             bwords = bwords.concat(wordL).concat(wordL2);
         }
         if (booksId.includes(b.id)) booksWords = booksWords.concat(bwords);
@@ -47,7 +47,7 @@ for (let b of index.books) {
     }
 }
 
-if (booksId.length === 0) fs.writeFileSync("index.json", JSON.stringify(index));
+if (booksId.length === 0) writeFileSync("index.json", JSON.stringify(index));
 else {
     console.log("\n" + booksId.map((b) => titleMap[b]).join(" "));
     let c = {};

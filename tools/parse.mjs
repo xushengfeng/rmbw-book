@@ -1,4 +1,4 @@
-const { getIndex, getFile, writeFile } = require("./until");
+import { getIndex, getFile, writeFile } from "./until.mjs";
 
 const index = getIndex();
 

@@ -1,8 +1,8 @@
-import { writeFileSync, readFileSync } from "fs";
+import { getIndex, writeIndex } from "./until.mjs";
 
 import { titleCase } from "title-case";
 
-const index = JSON.parse(readFileSync("index.json").toString());
+const index = getIndex();
 
 const booksId = process.argv.slice(2);
 
@@ -14,4 +14,4 @@ for (let b of index.books) {
     }
 }
 
-writeFileSync("index.json", JSON.stringify(index));
+writeIndex(index);

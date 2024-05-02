@@ -1,6 +1,6 @@
-const { getIndex, writeIndex } = require("./until");
+import { getIndex, writeIndex } from "./until.mjs";
 const index = getIndex();
-const { execSync } = require("child_process");
+import { execSync } from "child_process";
 
 execSync("git config core.quotepath false");
 const r = execSync("git status -s source").toString();

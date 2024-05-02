@@ -459,24 +459,24 @@
             "note": "todo word book",
             "cover": "rjbgz/11.svg",
             "sections": [
-                { "id": "rjbgz11879340", "title": "TU YOUYOU AWARDED NOBEL PRIZE", "path": "rjbgz/11.1.1.md" },
+                { "id": "rjbgz11879340", "title": "Tu Youyou Awarded Nobel Prize", "path": "rjbgz/11.1.1.md" },
                 {
                     "id": "rjbgz11570a2c",
-                    "title": "THE MAN WHO CHANGED OUR UNDERSTANDING OF THE UNIVERSE",
+                    "title": "The Man Who Changed Our Understanding of the Universe",
                     "path": "rjbgz/11.1.2.md"
                 },
-                { "id": "rjbgz1131f160", "title": "SMART HOMES TO MAKE LIFE EASIER", "path": "rjbgz/11.2.1.md" },
-                { "id": "rjbgz11935d8a", "title": "SHOULD WE FIGHT NEW TECHNOLOGY?", "path": "rjbgz/11.2.2.md" },
+                { "id": "rjbgz1131f160", "title": "Smart Homes to Make Life Easier", "path": "rjbgz/11.2.1.md" },
+                { "id": "rjbgz11935d8a", "title": "Should We Fight New Technology?", "path": "rjbgz/11.2.2.md" },
                 {
                     "id": "rjbgz1175bee8",
-                    "title": "SAREK NATIONAL PARK —EUROPE’S HIDDEN NATURAL TREASURE",
+                    "title": "Sarek National Park-—Europe’s Hidden Natural Treasure",
                     "path": "rjbgz/11.3.1.md"
                 },
-                { "id": "rjbgz11ecb374", "title": "THEME PARKS--FUN AND MORE THAN FUN", "path": "rjbgz/11.3.2.md" },
-                { "id": "rjbgz1115d7e1", "title": "LISTENING TO HOW BODIES TALK", "path": "rjbgz/11.4.1.md" },
-                { "id": "rjbgz115f2073", "title": "HOW DO I KNOW MY STUDENTS?", "path": "rjbgz/11.4.2.md" },
-                { "id": "rjbgz1152c449", "title": "A PIONEER FOR ALL PEOPLE", "path": "rjbgz/11.5.1.md" },
-                { "id": "rjbgz110d1e03", "title": "CHEMICAL VERSUS ORGANIC FARMING", "path": "rjbgz/11.5.2.md" }
+                { "id": "rjbgz11ecb374", "title": "Theme Parks--Fun and More than Fun", "path": "rjbgz/11.3.2.md" },
+                { "id": "rjbgz1115d7e1", "title": "Listening to How Bodies Talk", "path": "rjbgz/11.4.1.md" },
+                { "id": "rjbgz115f2073", "title": "How Do I Know My Students?", "path": "rjbgz/11.4.2.md" },
+                { "id": "rjbgz1152c449", "title": "A Pioneer for All People", "path": "rjbgz/11.5.1.md" },
+                { "id": "rjbgz110d1e03", "title": "Chemical versus Organic Farming", "path": "rjbgz/11.5.2.md" }
             ]
         },
         {
@@ -489,33 +489,33 @@
             "note": "todo word book",
             "cover": "rjbgz/12.svg",
             "sections": [
-                { "id": "rjbgz12117c9a", "title": "JOHN SNOW DEFEATS “KING CHOLERA”", "path": "rjbgz/12.1.1.md" },
-                { "id": "rjbgz12e3fab8", "title": "THE FATHER OF CHINA’S AEROSPACE", "path": "rjbgz/12.1.2.0.md" },
-                { "id": "rjbgz12445fe1", "title": "A WORLD OF PURE THOUGHT", "path": "rjbgz/12.1.2.1.md" },
+                { "id": "rjbgz12117c9a", "title": "John Snow Defeats “King Cholera”", "path": "rjbgz/12.1.1.md" },
+                { "id": "rjbgz12e3fab8", "title": "The Father of China’s Aerospace", "path": "rjbgz/12.1.2.0.md" },
+                { "id": "rjbgz12445fe1", "title": "A World of Pure Thought", "path": "rjbgz/12.1.2.1.md" },
                 {
                     "id": "rjbgz129c956a",
-                    "title": "“WELCOME, XIE LEI!” BUSINESS STUDENT BUILDING BRIDGES",
+                    "title": "“Welcome, Xie Lei!” Business Student Building Bridges",
                     "path": "rjbgz/12.2.1.md"
                 },
                 {
                     "id": "rjbgz121df2c6",
-                    "title": "STUDYING ABROAD: IS IT A GOOD OR A BAD IDEA?",
+                    "title": "Studying Abroad: Is It a Good or a Bad Idea?",
                     "path": "rjbgz/12.2.2.md"
                 },
-                { "id": "rjbgz1240a6f1", "title": "CULTURE AND CUISINE", "path": "rjbgz/12.3.1.md" },
-                { "id": "rjbgz12545573", "title": "HEALTHY EATING", "path": "rjbgz/12.3.2.md" },
+                { "id": "rjbgz1240a6f1", "title": "Culture and Cuisine", "path": "rjbgz/12.3.1.md" },
+                { "id": "rjbgz12545573", "title": "Healthy Eating", "path": "rjbgz/12.3.2.md" },
                 {
                     "id": "rjbgz12cc009e",
-                    "title": "SEEING THE TRUE NORTH VIA RAIL: VANCOUVER AND THE HEART OF CANADA",
+                    "title": "Seeing the True North via Rail: Vancouver and the Heart of Canada",
                     "path": "rjbgz/12.4.1.md"
                 },
                 {
                     "id": "rjbgz1299fd72",
-                    "title": "SEEING THE TRUE NORTH VIA RAIL: TORONTO AND MONTREAL",
+                    "title": "Seeing the True North via Rail: Toronto and Montreal",
                     "path": "rjbgz/12.4.2.md"
                 },
-                { "id": "rjbgz125b7996", "title": "FIRST AID FOR BURNS", "path": "rjbgz/12.5.1.md" },
-                { "id": "rjbgz12b2e179", "title": "STORY ABOUT PROVIDING FIRST AID", "path": "rjbgz/12.5.2.md" }
+                { "id": "rjbgz125b7996", "title": "First Aid for Burns", "path": "rjbgz/12.5.1.md" },
+                { "id": "rjbgz12b2e179", "title": "Story About Providing First Aid", "path": "rjbgz/12.5.2.md" }
             ]
         },
         {
@@ -528,27 +528,27 @@
             "note": "todo word book",
             "cover": "rjbgz/13.svg",
             "sections": [
-                { "id": "rjbgz1356d831", "title": "A SHORT HISTORY OF WESTERN PAINTING", "path": "rjbgz/13.1.1.md" },
-                { "id": "rjbgz13608021", "title": "ANCIENT CHINESE ART ON SHOW", "path": "rjbgz/13.1.2.md" },
-                { "id": "rjbgz136e35d8", "title": "HABITS FOR A HEALTHY LIFESTYLE", "path": "rjbgz/13.2.1.md" },
+                { "id": "rjbgz1356d831", "title": "A Short History of Western Painting", "path": "rjbgz/13.1.1.md" },
+                { "id": "rjbgz13608021", "title": "Ancient Chinese Art on Show", "path": "rjbgz/13.1.2.md" },
+                { "id": "rjbgz136e35d8", "title": "Habits for a Healthy Lifestyle", "path": "rjbgz/13.2.1.md" },
                 {
                     "id": "rjbgz13a7a218",
-                    "title": "Write a letter to the editor about your lifestyle",
+                    "title": "Write a Letter to the Editor About Your Lifestyle",
                     "path": "rjbgz/13.2.2.md"
                 },
                 {
                     "id": "rjbgz1372f928",
-                    "title": "CLIMATE CHANGE REQUIRES THE WORLD’S ATTENTION",
+                    "title": "Climate Change Requires the World’s Attention",
                     "path": "rjbgz/13.3.1.md"
                 },
                 {
                     "id": "rjbgz13b62464",
-                    "title": "REDUCING WATER POLLUTION IN THE LI RIVER",
+                    "title": "Reducing Water Pollution in the Li River",
                     "path": "rjbgz/13.3.2.md"
                 },
-                { "id": "rjbgz13a6b0da", "title": "A SUCCESSFUL FAILURE", "path": "rjbgz/13.4.1.md" },
-                { "id": "rjbgz133da3c0", "title": "THE REWARD FOR PERSEVERANCE", "path": "rjbgz/13.4.2.md" },
-                { "id": "rjbgz13b4c418", "title": "A FEW SIMPLE FORMS OF ENGLISH POEMS", "path": "rjbgz/13.5.1.md" }
+                { "id": "rjbgz13a6b0da", "title": "A Successful Failure", "path": "rjbgz/13.4.1.md" },
+                { "id": "rjbgz133da3c0", "title": "The Reward for Perseverance", "path": "rjbgz/13.4.2.md" },
+                { "id": "rjbgz13b4c418", "title": "A Few Simple Forms of English Poems", "path": "rjbgz/13.5.1.md" }
             ]
         },
         {
@@ -561,20 +561,20 @@
             "note": "todo word book",
             "cover": "rjbgz/14.svg",
             "sections": [
-                { "id": "rjbgz14c2c557", "title": "SATISFACTION GUARANTEED", "path": "rjbgz/14.1.1.md" },
-                { "id": "rjbgz14aef45a", "title": "THE TIME MACHINE", "path": "rjbgz/14.1.2.md" },
-                { "id": "rjbgz14677f90", "title": "BLOGS ABOUT AUSTRALIA", "path": "rjbgz/14.2.1.md" },
-                { "id": "rjbgz148354ee", "title": "THE AMAZING ANIMALS OF AUSTRALIA", "path": "rjbgz/14.2.2.md" },
-                { "id": "rjbgz14d4687b", "title": "REACHING OUT ACROSS THE SEA", "path": "rjbgz/14.3.1.md" },
+                { "id": "rjbgz14c2c557", "title": "Satisfaction Guaranteed", "path": "rjbgz/14.1.1.md" },
+                { "id": "rjbgz14aef45a", "title": "The Time Machine", "path": "rjbgz/14.1.2.md" },
+                { "id": "rjbgz14677f90", "title": "Blogs About Australia", "path": "rjbgz/14.2.1.md" },
+                { "id": "rjbgz148354ee", "title": "The Amazing Animals of Australia", "path": "rjbgz/14.2.2.md" },
+                { "id": "rjbgz14d4687b", "title": "Reaching Out Across the Sea", "path": "rjbgz/14.3.1.md" },
                 {
                     "id": "rjbgz144319a3",
-                    "title": "Express your opinions on sea exploration",
+                    "title": "Express Your Opinions on Sea Exploration",
                     "path": "rjbgz/14.3.2.md"
                 },
-                { "id": "rjbgz14eab47a", "title": "VOLUNTEERING IN THE BUSH", "path": "rjbgz/14.4.1.md" },
-                { "id": "rjbgz147adc70", "title": "China’s aid to other countries", "path": "rjbgz/14.4.2.md" },
-                { "id": "rjbgz14d16173", "title": "WORKING OUT WHAT YOU WANT TO DO", "path": "rjbgz/14.5.1.md" },
-                { "id": "rjbgz1446dcbe", "title": "SUMMER CAMP HELPERS WANTED!", "path": "rjbgz/14.5.2.md" }
+                { "id": "rjbgz14eab47a", "title": "Volunteering in the Bush", "path": "rjbgz/14.4.1.md" },
+                { "id": "rjbgz147adc70", "title": "China’s Aid to Other Countries", "path": "rjbgz/14.4.2.md" },
+                { "id": "rjbgz14d16173", "title": "Working Out What You Want to Do", "path": "rjbgz/14.5.1.md" },
+                { "id": "rjbgz1446dcbe", "title": "Summer Camp Helpers Wanted!", "path": "rjbgz/14.5.2.md" }
             ]
         },
         {

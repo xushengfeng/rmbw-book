@@ -1,5 +1,8 @@
 {
     "devDependencies": {
         "lemmatizer": "^0.0.1"
+    },
+    "dependencies": {
+        "title-case": "^4.3.1"
     }
 }

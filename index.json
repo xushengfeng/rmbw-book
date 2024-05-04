@@ -583,20 +583,20 @@
             "id": "rjbgz21",
             "language": "en",
             "type": "text",
-            "updateTime": 1713950618449,
+            "updateTime": 1714783825000,
             "sections": [
-                { "id": "rjbgz211a001b", "title": "NATURE", "path": "rjbgz/21.1.1.md" },
+                { "id": "rjbgz211a001b", "title": "Nature", "path": "rjbgz/21.1.1.md" },
                 {
                     "id": "rjbgz2104b210",
-                    "title": "THE MOST MAGNIFICENT SPECTACLE ON EARTH",
+                    "title": "The Most Magnificent Spectacle on Earth",
                     "path": "rjbgz/21.1.2.md"
                 },
-                { "id": "rjbgz21a47e72", "title": "NATURE'S HIDDEN SUPERPOWERS", "path": "rjbgz/21.1.3.md" },
-                { "id": "rjbgz21f3e7e4", "title": "SUNRISE IN THE BLUE MOUNTAINS", "path": "rjbgz/21.1.4.md" },
-                { "id": "rjbgz219e7f8a", "title": "GOOSEBERRIES", "path": "rjbgz/21.2.1.md" },
-                { "id": "rjbgz21af5ae3", "title": "AFFECTION", "path": "rjbgz/21.2.2.md" },
-                { "id": "rjbgz21ebe405", "title": "THE BLUE BIRD", "path": "rjbgz/21.2.3.md" },
-                { "id": "rjbgz21598e95", "title": "THE PURSUIT OE HAPPINESS", "path": "rjbgz/21.2.4.md" }
+                { "id": "rjbgz21a47e72", "title": "Nature's Hidden Superpowers", "path": "rjbgz/21.1.3.md" },
+                { "id": "rjbgz21f3e7e4", "title": "Sunrise in the Blue Mountains", "path": "rjbgz/21.1.4.md" },
+                { "id": "rjbgz219e7f8a", "title": "Gooseberries", "path": "rjbgz/21.2.1.md" },
+                { "id": "rjbgz21af5ae3", "title": "Affection", "path": "rjbgz/21.2.2.md" },
+                { "id": "rjbgz21ebe405", "title": "The Blue Bird", "path": "rjbgz/21.2.3.md" },
+                { "id": "rjbgz21598e95", "title": "The Pursuit Oe Happiness", "path": "rjbgz/21.2.4.md" }
             ]
         },
         {

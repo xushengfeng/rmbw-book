@@ -641,6 +641,35 @@
                 { "id": "rjbgw01dfa405", "title": "十一月四日风雨大作(其二)", "path": "rjbgw/01/21.md" },
                 { "id": "rjbgw0198ebf7", "title": "潼关", "path": "rjbgw/01/22.md" }
             ]
+        },
+        {
+            "name": "人教版初中七年级下",
+            "shortName": "七下",
+            "id": "rjbgw02",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw024fbd2c", "title": "孙权劝学", "path": "rjbgw/02/1.md" },
+                { "id": "rjbgw02f95940", "title": "木兰诗", "path": "rjbgw/02/2.md" },
+                { "id": "rjbgw029449e2", "title": "卖油翁", "path": "rjbgw/02/3.md" },
+                { "id": "rjbgw02634281", "title": "竹里馆", "path": "rjbgw/02/4.md" },
+                { "id": "rjbgw0269b288", "title": "春夜洛城闻笛", "path": "rjbgw/02/5.md" },
+                { "id": "rjbgw025c44d2", "title": "逢入京使", "path": "rjbgw/02/6.md" },
+                { "id": "rjbgw0268488c", "title": "晚春", "path": "rjbgw/02/7.md" },
+                { "id": "rjbgw020f25ee", "title": "陋室铭", "path": "rjbgw/02/8.md" },
+                { "id": "rjbgw0260ae1e", "title": "爱莲说", "path": "rjbgw/02/9.md" },
+                { "id": "rjbgw02ba7eac", "title": "登幽州台歌", "path": "rjbgw/02/10.md" },
+                { "id": "rjbgw0226df99", "title": "望岳", "path": "rjbgw/02/11.md" },
+                { "id": "rjbgw02974b81", "title": "登飞来峰", "path": "rjbgw/02/12.md" },
+                { "id": "rjbgw02f0fadb", "title": "游山西村", "path": "rjbgw/02/13.md" },
+                { "id": "rjbgw02121482", "title": "己亥杂诗(其五)", "path": "rjbgw/02/14.md" },
+                { "id": "rjbgw028f12c8", "title": "活板", "path": "rjbgw/02/15.md" },
+                { "id": "rjbgw02862033", "title": "泊秦淮", "path": "rjbgw/02/16.md" },
+                { "id": "rjbgw02211d19", "title": "贾生", "path": "rjbgw/02/17.md" },
+                { "id": "rjbgw02d9181a", "title": "过松源晨炊漆公店(其五)", "path": "rjbgw/02/18.md" },
+                { "id": "rjbgw02e9cf99", "title": "约客", "path": "rjbgw/02/19.md" }
+            ]
         }
     ]
 }

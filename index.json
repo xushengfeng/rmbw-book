@@ -670,6 +670,43 @@
                 { "id": "rjbgw02d9181a", "title": "过松源晨炊漆公店(其五)", "path": "rjbgw/02/18.md" },
                 { "id": "rjbgw02e9cf99", "title": "约客", "path": "rjbgw/02/19.md" }
             ]
+        },
+        {
+            "name": "人教版初中八年级上",
+            "shortName": "八上",
+            "id": "rjbgw03",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw03911a7d", "title": "三峡", "path": "rjbgw/03/1.md" },
+                { "id": "rjbgw032f8cba", "title": "答谢中书书", "path": "rjbgw/03/2.md" },
+                { "id": "rjbgw03dece60", "title": "记承天寺夜游", "path": "rjbgw/03/3.md" },
+                { "id": "rjbgw03b76e5a", "title": "与朱元思书", "path": "rjbgw/03/4.md" },
+                { "id": "rjbgw035ecb71", "title": "野望", "path": "rjbgw/03/5.md" },
+                { "id": "rjbgw03fd451a", "title": "黄鹤楼", "path": "rjbgw/03/6.md" },
+                { "id": "rjbgw03ba0b38", "title": "使至塞上", "path": "rjbgw/03/7.md" },
+                { "id": "rjbgw0315dff7", "title": "渡荆门送别", "path": "rjbgw/03/8.md" },
+                { "id": "rjbgw0390472f", "title": "钱塘湖春行", "path": "rjbgw/03/9.md" },
+                { "id": "rjbgw03a4f290", "title": "庭中有奇树", "path": "rjbgw/03/10.md" },
+                { "id": "rjbgw03bcaddb", "title": "龟虽寿", "path": "rjbgw/03/11.md" },
+                { "id": "rjbgw03a7e850", "title": "赠从弟(其二)", "path": "rjbgw/03/12.md" },
+                { "id": "rjbgw039c0f1f", "title": "梁甫行", "path": "rjbgw/03/13.md" },
+                { "id": "rjbgw0362ef2f", "title": "得道多助，失道寡助", "path": "rjbgw/03/14.md" },
+                { "id": "rjbgw0321c2b5", "title": "富贵不能淫", "path": "rjbgw/03/15.md" },
+                { "id": "rjbgw0323d6e5", "title": "生于忧患，死于安乐", "path": "rjbgw/03/16.md" },
+                { "id": "rjbgw03c0fa10", "title": "愚公移山", "path": "rjbgw/03/17.md" },
+                { "id": "rjbgw03e4bca4", "title": "周亚夫军细柳", "path": "rjbgw/03/18.md" },
+                { "id": "rjbgw03c89c40", "title": "饮酒(其五)", "path": "rjbgw/03/19.md" },
+                { "id": "rjbgw03046c0f", "title": "春望", "path": "rjbgw/03/20.md" },
+                { "id": "rjbgw037655cb", "title": "雁门太守行", "path": "rjbgw/03/21.md" },
+                { "id": "rjbgw038c1264", "title": "赤壁", "path": "rjbgw/03/22.md" },
+                { "id": "rjbgw03d42817", "title": "渔家傲", "path": "rjbgw/03/23.md" },
+                { "id": "rjbgw03bc0c94", "title": "浣溪沙", "path": "rjbgw/03/24.md" },
+                { "id": "rjbgw03565c63", "title": "采桑子", "path": "rjbgw/03/25.md" },
+                { "id": "rjbgw03ddf3e6", "title": "相见欢", "path": "rjbgw/03/26.md" },
+                { "id": "rjbgw03bf6978", "title": "如梦令", "path": "rjbgw/03/27.md" }
+            ]
         }
     ]
 }

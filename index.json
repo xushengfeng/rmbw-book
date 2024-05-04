@@ -609,6 +609,38 @@
                 { "id": "ipa", "title": "", "path": "package/en/ipa.json" },
                 { "id": "variant", "title": "", "path": "package/en/variant.json" }
             ]
+        },
+        {
+            "name": "人教版初中七年级上",
+            "shortName": "七上",
+            "id": "rjbgw01",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw015c02ba", "title": "观沧海", "path": "rjbgw/01/1.md" },
+                { "id": "rjbgw0146cbd1", "title": "闻王昌龄左迁龙标遥有此寄", "path": "rjbgw/01/2.md" },
+                { "id": "rjbgw018deef5", "title": "次北固山下", "path": "rjbgw/01/3.md" },
+                { "id": "rjbgw01d7e799", "title": "天净沙·秋思", "path": "rjbgw/01/4.md" },
+                { "id": "rjbgw015c7ac4", "title": "咏雪", "path": "rjbgw/01/5.md" },
+                { "id": "rjbgw0132ae08", "title": "陈太丘与友期行", "path": "rjbgw/01/6.md" },
+                { "id": "rjbgw01152abe", "title": "《论语》十二章", "path": "rjbgw/01/7.md" },
+                { "id": "rjbgw013e5df2", "title": "峨眉山月歌", "path": "rjbgw/01/8.md" },
+                { "id": "rjbgw01d8c782", "title": "江南逢李龟年", "path": "rjbgw/01/9.md" },
+                { "id": "rjbgw015cbca2", "title": "行军九日思长安故园", "path": "rjbgw/01/10.md" },
+                { "id": "rjbgw01bbda5a", "title": "夜上受降城闻笛", "path": "rjbgw/01/11.md" },
+                { "id": "rjbgw01839b93", "title": "诫子书", "path": "rjbgw/01/12.md" },
+                { "id": "rjbgw0154b933", "title": "狼", "path": "rjbgw/01/13.md" },
+                { "id": "rjbgw0107a3d9", "title": "秋夕", "path": "rjbgw/01/14.md" },
+                { "id": "rjbgw018e7431", "title": "七夕", "path": "rjbgw/01/15.md" },
+                { "id": "rjbgw0131a510", "title": "鹊桥仙", "path": "rjbgw/01/16.md" },
+                { "id": "rjbgw012a65a7", "title": "穿井得一人", "path": "rjbgw/01/17.md" },
+                { "id": "rjbgw0146c17d", "title": "杞人忧天", "path": "rjbgw/01/18.md" },
+                { "id": "rjbgw01e5da5a", "title": "秋词(其一)", "path": "rjbgw/01/19.md" },
+                { "id": "rjbgw0173ed97", "title": "夜雨寄北", "path": "rjbgw/01/20.md" },
+                { "id": "rjbgw01dfa405", "title": "十一月四日风雨大作(其二)", "path": "rjbgw/01/21.md" },
+                { "id": "rjbgw0198ebf7", "title": "潼关", "path": "rjbgw/01/22.md" }
+            ]
         }
     ]
 }

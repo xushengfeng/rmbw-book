@@ -707,6 +707,37 @@
                 { "id": "rjbgw03ddf3e6", "title": "相见欢", "path": "rjbgw/03/26.md" },
                 { "id": "rjbgw03bf6978", "title": "如梦令", "path": "rjbgw/03/27.md" }
             ]
+        },
+        {
+            "name": "人教版初中八年级下",
+            "shortName": "八下",
+            "id": "rjbgw04",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw040f395f", "title": "桃花源记", "path": "rjbgw/04/1.md" },
+                { "id": "rjbgw041c6360", "title": "小石潭记", "path": "rjbgw/04/2.md" },
+                { "id": "rjbgw04063b80", "title": "核舟记", "path": "rjbgw/04/3.md" },
+                { "id": "rjbgw045d79e0", "title": "关雎", "path": "rjbgw/04/4.md" },
+                { "id": "rjbgw04c65be6", "title": "蒹葭", "path": "rjbgw/04/5.md" },
+                { "id": "rjbgw04eab681", "title": "式微", "path": "rjbgw/04/6.md" },
+                { "id": "rjbgw043a968b", "title": "子衿", "path": "rjbgw/04/7.md" },
+                { "id": "rjbgw04e21d59", "title": "送杜少府之任蜀州", "path": "rjbgw/04/8.md" },
+                { "id": "rjbgw04bbe5f4", "title": "望洞庭湖赠张丞相", "path": "rjbgw/04/9.md" },
+                { "id": "rjbgw04cc9029", "title": "北冥有鱼", "path": "rjbgw/04/10.md" },
+                { "id": "rjbgw0421964f", "title": "庄子与惠子游于濠梁之上", "path": "rjbgw/04/11.md" },
+                { "id": "rjbgw04ce12a3", "title": "虽有嘉肴", "path": "rjbgw/04/12.md" },
+                { "id": "rjbgw04c0560f", "title": "大道之行也", "path": "rjbgw/04/13.md" },
+                { "id": "rjbgw04e00ad1", "title": "马说", "path": "rjbgw/04/14.md" },
+                { "id": "rjbgw045e2c20", "title": "石壕吏", "path": "rjbgw/04/15.md" },
+                { "id": "rjbgw04f5ea64", "title": "茅屋为秋风所破歌", "path": "rjbgw/04/16.md" },
+                { "id": "rjbgw04970463", "title": "卖炭翁", "path": "rjbgw/04/17.md" },
+                { "id": "rjbgw04e19511", "title": "题破山寺后禅院", "path": "rjbgw/04/18.md" },
+                { "id": "rjbgw046e26d5", "title": "送友人", "path": "rjbgw/04/19.md" },
+                { "id": "rjbgw0441b446", "title": "卜算子·黄州定慧院寓居作", "path": "rjbgw/04/20.md" },
+                { "id": "rjbgw04c981ed", "title": "卜算子·咏梅", "path": "rjbgw/04/21.md" }
+            ]
         }
     ]
 }

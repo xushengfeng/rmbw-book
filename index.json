@@ -857,6 +857,26 @@
                 { "id": "rjbgw12b27089", "title": "念奴娇·过洞庭", "path": "rjbgw/12/16.md" },
                 { "id": "rjbgw12e0db8b", "title": "游园", "path": "rjbgw/12/17.md" }
             ]
+        },
+        {
+            "name": "人教版高中选择性必修上",
+            "shortName": "选必上",
+            "id": "rjbgw13",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw132b5de0", "title": "《论语》十二章", "path": "rjbgw/13/1.md" },
+                { "id": "rjbgw13bbd8f2", "title": "大学之道", "path": "rjbgw/13/2.md" },
+                { "id": "rjbgw13b1a95d", "title": "人皆有不忍人之心", "path": "rjbgw/13/3.md" },
+                { "id": "rjbgw1375ce33", "title": "《老子》四章", "path": "rjbgw/13/4.md" },
+                { "id": "rjbgw13598622", "title": "五石之瓠", "path": "rjbgw/13/5.md" },
+                { "id": "rjbgw13ad79cc", "title": "兼爱", "path": "rjbgw/13/6.md" },
+                { "id": "rjbgw1398de28", "title": "无衣", "path": "rjbgw/13/7.md" },
+                { "id": "rjbgw1354f678", "title": "春江花月夜", "path": "rjbgw/13/8.md" },
+                { "id": "rjbgw1337ef53", "title": "将进酒", "path": "rjbgw/13/9.md" },
+                { "id": "rjbgw138e362e", "title": "江城子·乙卯正月二十日夜记梦", "path": "rjbgw/13/10.md" }
+            ]
         }
     ]
 }

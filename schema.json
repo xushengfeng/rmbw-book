@@ -54,6 +54,10 @@
                     "language": {
                         "type": "string"
                     },
+                    "wordSplit": {
+                        "type": "string",
+                        "enum": ["grapheme", "word"]
+                    },
                     "coverage": {
                         "type": "object",
                         "patternProperties": {

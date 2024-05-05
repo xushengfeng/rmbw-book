@@ -616,6 +616,7 @@
             "id": "rjbgw01",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw015c02ba", "title": "观沧海", "path": "rjbgw/01/1.md" },
@@ -648,6 +649,7 @@
             "id": "rjbgw02",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw024fbd2c", "title": "孙权劝学", "path": "rjbgw/02/1.md" },
@@ -677,6 +679,7 @@
             "id": "rjbgw03",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw03911a7d", "title": "三峡", "path": "rjbgw/03/1.md" },
@@ -714,6 +717,7 @@
             "id": "rjbgw04",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw040f395f", "title": "桃花源记", "path": "rjbgw/04/1.md" },
@@ -745,6 +749,7 @@
             "id": "rjbgw05",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw05a0d57e", "title": "沁园春·雪", "path": "rjbgw/05/1.md" },
@@ -774,6 +779,7 @@
             "id": "rjbgw06",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw06b69ded", "title": "鱼我所欲也", "path": "rjbgw/06/1.md" },
@@ -808,6 +814,7 @@
             "id": "rjbgw11",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw117eb361", "title": "沁园春·长沙", "path": "rjbgw/11/1.md" },
@@ -837,6 +844,7 @@
             "id": "rjbgw12",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw12898a7c", "title": "子路、曾皙、冉有、公西华侍坐", "path": "rjbgw/12/1.md" },
@@ -864,6 +872,7 @@
             "id": "rjbgw13",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw132b5de0", "title": "《论语》十二章", "path": "rjbgw/13/1.md" },
@@ -884,6 +893,7 @@
             "id": "rjbgw14",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw14cb8ea0", "title": "屈原列传", "path": "rjbgw/14/1.md" },
@@ -902,6 +912,7 @@
             "id": "rjbgw15",
             "language": "cn",
             "type": "text",
+            "wordSplit": "grapheme",
             "updateTime": 0,
             "sections": [
                 { "id": "rjbgw15d9f776", "title": "氓", "path": "rjbgw/15/1.md" },

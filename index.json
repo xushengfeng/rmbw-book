@@ -830,6 +830,33 @@
                 { "id": "rjbgw1150d95e", "title": "虞美人", "path": "rjbgw/11/18.md" },
                 { "id": "rjbgw1159d986", "title": "鹊桥仙", "path": "rjbgw/11/19.md" }
             ]
+        },
+        {
+            "name": "人教版高中必修下",
+            "shortName": "必下",
+            "id": "rjbgw12",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw12898a7c", "title": "子路、曾皙、冉有、公西华侍坐", "path": "rjbgw/12/1.md" },
+                { "id": "rjbgw129db24a", "title": "齐桓晋文之事", "path": "rjbgw/12/2.md" },
+                { "id": "rjbgw12cc02d7", "title": "庖丁解牛", "path": "rjbgw/12/3.md" },
+                { "id": "rjbgw12ee5c57", "title": "烛之武退秦师", "path": "rjbgw/12/4.md" },
+                { "id": "rjbgw12619988", "title": "鸿门宴", "path": "rjbgw/12/5.md" },
+                { "id": "rjbgw12e790ce", "title": "谏逐客书", "path": "rjbgw/12/6.md" },
+                { "id": "rjbgw12c0ce00", "title": "与妻书", "path": "rjbgw/12/7.md" },
+                { "id": "rjbgw12ad4bcb", "title": "林教头风雪山神庙", "path": "rjbgw/12/8.md" },
+                { "id": "rjbgw129f3249", "title": "促织", "path": "rjbgw/12/9.md" },
+                { "id": "rjbgw12855338", "title": "谏太宗十思疏", "path": "rjbgw/12/10.md" },
+                { "id": "rjbgw128f2500", "title": "答司马谏议书", "path": "rjbgw/12/11.md" },
+                { "id": "rjbgw12d61dff", "title": "阿房宫赋", "path": "rjbgw/12/12.md" },
+                { "id": "rjbgw12dee620", "title": "六国论", "path": "rjbgw/12/13.md" },
+                { "id": "rjbgw12c0fe4f", "title": "登岳阳楼", "path": "rjbgw/12/14.md" },
+                { "id": "rjbgw12b81a7f", "title": "桂枝香·金陵怀古", "path": "rjbgw/12/15.md" },
+                { "id": "rjbgw12b27089", "title": "念奴娇·过洞庭", "path": "rjbgw/12/16.md" },
+                { "id": "rjbgw12e0db8b", "title": "游园", "path": "rjbgw/12/17.md" }
+            ]
         }
     ]
 }

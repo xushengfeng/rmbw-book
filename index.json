@@ -877,6 +877,24 @@
                 { "id": "rjbgw1337ef53", "title": "将进酒", "path": "rjbgw/13/9.md" },
                 { "id": "rjbgw138e362e", "title": "江城子·乙卯正月二十日夜记梦", "path": "rjbgw/13/10.md" }
             ]
+        },
+        {
+            "name": "人教版高中选择性必修中",
+            "shortName": "选必中",
+            "id": "rjbgw14",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw14cb8ea0", "title": "屈原列传", "path": "rjbgw/14/1.md" },
+                { "id": "rjbgw149fb2e6", "title": "苏武传", "path": "rjbgw/14/2.md" },
+                { "id": "rjbgw149a5109", "title": "过秦论", "path": "rjbgw/14/3.md" },
+                { "id": "rjbgw14b227bf", "title": "五代史伶官传序", "path": "rjbgw/14/4.md" },
+                { "id": "rjbgw14612547", "title": "燕歌行并序", "path": "rjbgw/14/5.md" },
+                { "id": "rjbgw14a69c99", "title": "李凭箜篌引", "path": "rjbgw/14/6.md" },
+                { "id": "rjbgw14943806", "title": "锦瑟", "path": "rjbgw/14/7.md" },
+                { "id": "rjbgw1422bb49", "title": "书愤", "path": "rjbgw/14/8.md" }
+            ]
         }
     ]
 }

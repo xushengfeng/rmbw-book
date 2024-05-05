@@ -738,6 +738,35 @@
                 { "id": "rjbgw0441b446", "title": "卜算子·黄州定慧院寓居作", "path": "rjbgw/04/20.md" },
                 { "id": "rjbgw04c981ed", "title": "卜算子·咏梅", "path": "rjbgw/04/21.md" }
             ]
+        },
+        {
+            "name": "人教版初中九年级上",
+            "shortName": "九上",
+            "id": "rjbgw05",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw05a0d57e", "title": "沁园春·雪", "path": "rjbgw/05/1.md" },
+                { "id": "rjbgw05c7db26", "title": "岳阳楼记", "path": "rjbgw/05/2.md" },
+                { "id": "rjbgw05e0f355", "title": "醉翁亭记", "path": "rjbgw/05/3.md" },
+                { "id": "rjbgw05f2c2c5", "title": "湖心亭看雪", "path": "rjbgw/05/4.md" },
+                { "id": "rjbgw05485e64", "title": "行路难 (其一)", "path": "rjbgw/05/5.md" },
+                { "id": "rjbgw05f5fe97", "title": "酬乐天扬州初逢席上见赠", "path": "rjbgw/05/6.md" },
+                { "id": "rjbgw05c294f9", "title": "水调歌头", "path": "rjbgw/05/7.md" },
+                { "id": "rjbgw0540eb56", "title": "月夜忆舍弟", "path": "rjbgw/05/8.md" },
+                { "id": "rjbgw05d7ca4f", "title": "长沙过贾谊宅", "path": "rjbgw/05/9.md" },
+                { "id": "rjbgw05bdf410", "title": "左迁至蓝关示侄孙湘", "path": "rjbgw/05/10.md" },
+                { "id": "rjbgw05c3fa02", "title": "商山早行", "path": "rjbgw/05/11.md" },
+                { "id": "rjbgw05614257", "title": "智取生辰纲", "path": "rjbgw/05/12.md" },
+                { "id": "rjbgw051731ff", "title": "范进中举", "path": "rjbgw/05/13.md" },
+                { "id": "rjbgw059c71e3", "title": "三顾茅庐", "path": "rjbgw/05/14.md" },
+                { "id": "rjbgw0570794b", "title": "刘姥姥进大观园", "path": "rjbgw/05/15.md" },
+                { "id": "rjbgw05a07ab0", "title": "咸阳城东楼", "path": "rjbgw/05/16.md" },
+                { "id": "rjbgw050bb90f", "title": "无题", "path": "rjbgw/05/17.md" },
+                { "id": "rjbgw05591c54", "title": "行香子", "path": "rjbgw/05/18.md" },
+                { "id": "rjbgw05f3a789", "title": "丑奴儿·书博山道中壁", "path": "rjbgw/05/19.md" }
+            ]
         }
     ]
 }

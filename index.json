@@ -933,6 +933,14 @@
                 { "id": "rjbgw15ccff0b", "title": "登快阁", "path": "rjbgw/15/16.md" },
                 { "id": "rjbgw15385806", "title": "临安春雨初霁", "path": "rjbgw/15/17.md" }
             ]
+        },
+        {
+            "name": "文言文",
+            "id": "wyw",
+            "language": "cn",
+            "type": "word",
+            "updateTime": 0,
+            "sections": [{ "id": "wyw120sc", "title": "120实词", "path": "rjbgw/120.txt" }]
         }
     ]
 }

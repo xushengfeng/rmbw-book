@@ -895,6 +895,33 @@
                 { "id": "rjbgw14943806", "title": "锦瑟", "path": "rjbgw/14/7.md" },
                 { "id": "rjbgw1422bb49", "title": "书愤", "path": "rjbgw/14/8.md" }
             ]
+        },
+        {
+            "name": "人教版高中选择性必修下",
+            "shortName": "选必下",
+            "id": "rjbgw15",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw15d9f776", "title": "氓", "path": "rjbgw/15/1.md" },
+                { "id": "rjbgw1563dba8", "title": "离骚(节选)", "path": "rjbgw/15/2.md" },
+                { "id": "rjbgw15c749bc", "title": "孔雀东南飞并序", "path": "rjbgw/15/3.md" },
+                { "id": "rjbgw15482cc8", "title": "蜀道难", "path": "rjbgw/15/4.md" },
+                { "id": "rjbgw1587915c", "title": "蜀相", "path": "rjbgw/15/5.md" },
+                { "id": "rjbgw150ea3ac", "title": "望海潮", "path": "rjbgw/15/6.md" },
+                { "id": "rjbgw15eedf76", "title": "扬州慢", "path": "rjbgw/15/7.md" },
+                { "id": "rjbgw15c322c2", "title": "陈情表", "path": "rjbgw/15/8.md" },
+                { "id": "rjbgw159f0d40", "title": "项脊轩志", "path": "rjbgw/15/9.md" },
+                { "id": "rjbgw15f016d5", "title": "兰亭集序", "path": "rjbgw/15/10.md" },
+                { "id": "rjbgw154f71b4", "title": "归去来兮辞并序", "path": "rjbgw/15/11.md" },
+                { "id": "rjbgw15ee5493", "title": "种树郭橐驼传", "path": "rjbgw/15/12.md" },
+                { "id": "rjbgw15d031b1", "title": "石钟山记", "path": "rjbgw/15/13.md" },
+                { "id": "rjbgw15bbc7a3", "title": "拟行路难(其四)", "path": "rjbgw/15/14.md" },
+                { "id": "rjbgw15c8af7e", "title": "客至", "path": "rjbgw/15/15.md" },
+                { "id": "rjbgw15ccff0b", "title": "登快阁", "path": "rjbgw/15/16.md" },
+                { "id": "rjbgw15385806", "title": "临安春雨初霁", "path": "rjbgw/15/17.md" }
+            ]
         }
     ]
 }

@@ -5,7 +5,7 @@ const index = getIndex();
 const booksId = process.argv.slice(2);
 
 const englishMap = { "，": ",", "。": ".", "？": "?", "！": "!", "：": ":", "；": ";" };
-const chineseMap = { ",": "，", ".": "。", "?": "？", "!": "！", ":": "：", ";": "；" };
+const chineseMap = { ",": "，", "?": "？", "!": "！", ":": "：", ";": "；" };
 
 for (let b of index.books) {
     let matchBook = false;

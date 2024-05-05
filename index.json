@@ -767,6 +767,40 @@
                 { "id": "rjbgw05591c54", "title": "行香子", "path": "rjbgw/05/18.md" },
                 { "id": "rjbgw05f3a789", "title": "丑奴儿·书博山道中壁", "path": "rjbgw/05/19.md" }
             ]
+        },
+        {
+            "name": "人教版初中九年级下",
+            "shortName": "九下",
+            "id": "rjbgw06",
+            "language": "cn",
+            "type": "text",
+            "updateTime": 0,
+            "sections": [
+                { "id": "rjbgw06b69ded", "title": "鱼我所欲也", "path": "rjbgw/06/1.md" },
+                { "id": "rjbgw06446650", "title": "唐雎不辱使命", "path": "rjbgw/06/2.md" },
+                { "id": "rjbgw0634e7e0", "title": "送东阳马生序", "path": "rjbgw/06/3.md" },
+                { "id": "rjbgw06bb4fc9", "title": "渔家傲·秋思", "path": "rjbgw/06/4.md" },
+                { "id": "rjbgw0639a236", "title": "江城子·密州出猎", "path": "rjbgw/06/5.md" },
+                { "id": "rjbgw06bf3772", "title": "破阵子·为陈同甫赋壮词以寄之", "path": "rjbgw/06/6.md" },
+                { "id": "rjbgw06966f0d", "title": "满江红", "path": "rjbgw/06/7.md" },
+                { "id": "rjbgw06241f58", "title": "定风波", "path": "rjbgw/06/8.md" },
+                { "id": "rjbgw06ff38c9", "title": "临江仙·夜登小阁，忆洛中旧游", "path": "rjbgw/06/9.md" },
+                { "id": "rjbgw0665c888", "title": "太常引·建康中秋夜为吕叔潜赋", "path": "rjbgw/06/10.md" },
+                { "id": "rjbgw06231c3b", "title": "浣溪沙", "path": "rjbgw/06/11.md" },
+                { "id": "rjbgw06b9a5b4", "title": "曹刿论战", "path": "rjbgw/06/12.md" },
+                { "id": "rjbgw06603d2f", "title": "邹忌讽齐王纳谏", "path": "rjbgw/06/13.md" },
+                { "id": "rjbgw06ff3cca", "title": "陈涉世家", "path": "rjbgw/06/14.md" },
+                { "id": "rjbgw065deae7", "title": "出师表", "path": "rjbgw/06/15.md" },
+                { "id": "rjbgw064538c9", "title": "十五从军征", "path": "rjbgw/06/16.md" },
+                { "id": "rjbgw067f7627", "title": "白雪歌送武判官归京", "path": "rjbgw/06/17.md" },
+                { "id": "rjbgw06f81027", "title": "南乡子·登京口北固亭有怀", "path": "rjbgw/06/18.md" },
+                { "id": "rjbgw06d6549c", "title": "过零丁洋", "path": "rjbgw/06/19.md" },
+                { "id": "rjbgw066d354b", "title": "山坡羊·潼关怀古", "path": "rjbgw/06/20.md" },
+                { "id": "rjbgw06869076", "title": "南安军", "path": "rjbgw/06/21.md" },
+                { "id": "rjbgw067f0a44", "title": "别云间", "path": "rjbgw/06/22.md" },
+                { "id": "rjbgw064820b0", "title": "山坡羊·骊山怀古", "path": "rjbgw/06/23.md" },
+                { "id": "rjbgw06f872ed", "title": "朝天子·咏喇叭", "path": "rjbgw/06/24.md" }
+            ]
         }
     ]
 }

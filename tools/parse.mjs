@@ -34,7 +34,7 @@ for (let b of index.books) {
                 if (b.type === "text") {
                     text = text.replace(/(\d)/g, "");
                     text = text.replace(/ +/g, "");
-                    text = text.replace(/([@#])/g, "");
+                    text = text.replace(/([@#!])/g, "");
                     text = text.replace(/([a-z])/g, "");
                     text = text.replace(/\n+/g, "\n");
                     for (let i in chineseMap) {

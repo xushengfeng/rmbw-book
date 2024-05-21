@@ -134,7 +134,6 @@ BCE
 tomb
 unearth
 comment
-Spanish
 fitness
 soccer
 stadium
@@ -279,7 +278,3 @@ demand
 vocabulary
 description
 relate
-Korean
-Danish
-Denmark
-Arabic

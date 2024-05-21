@@ -72,8 +72,6 @@ wedding
 clap
 respect
 horrible
-Halloween
-Thanksgiving
 moral
 virtue
 dilemma
@@ -182,7 +180,6 @@ claim
 series
 minority
 escape
-Atlantic
 financial
 poetry
 jeans
@@ -207,7 +204,6 @@ suit
 item
 contain
 neat
-Cantonese
 astronaut
 procedure
 mental
@@ -274,8 +270,6 @@ closing
 mystery
 attach
 oxygen
-Mars
-Jupiter
 basis
 loan
 plastic

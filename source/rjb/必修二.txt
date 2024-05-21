@@ -65,9 +65,6 @@ comparison
 contrast
 identify
 forever
-Egypt
-Egyptian
-Moscow
 poster
 illegal
 illegally
@@ -132,8 +129,6 @@ stir
 emotion
 skin
 unusual
-Tibet
-Tibetan
 blog
 blogger
 engine
@@ -161,7 +156,6 @@ plus
 function
 battery
 confirm
-Wi-Fi
 press
 button
 file
@@ -184,7 +178,6 @@ tip
 familiar
 define
 case
-Confucius
 mansion
 cemetery
 philosophy
@@ -243,10 +236,6 @@ sensory
 striking
 transition
 crowd
-Wales
-Scotland
-Roman
-Irish
 classical
 hip-hop
 techno

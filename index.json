@@ -36,10 +36,11 @@
             "name": "高考词汇",
             "id": "gk",
             "type": "word",
-            "updateTime": 1713075062139,
+            "updateTime": 1716468613825,
             "sections": [
                 { "id": "6e6ed8d4", "title": "高考词汇", "path": "高考词汇.txt" },
-                { "id": "8556a7c2", "title": "考纲3000词", "path": "3000 words.txt" }
+                { "id": "8556a7c2", "title": "考纲3000词", "path": "3000 words.txt" },
+                { "id": "gk93b558", "title": "高考核心词汇", "path": "高考核心词汇.txt" }
             ],
             "language": "en"
         },

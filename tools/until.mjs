@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from "fs";
 import path from "path";
 
-export { getFile, writeFile, getIndex, writeIndex };
+export { getFile, writeFile, getIndex, writeIndex, initLemmatizer, lemmatizer };
 
 function getFile(fpath) {
     return readFileSync(path.join("source/", fpath)).toString();
@@ -25,4 +25,12 @@ function getIndex() {
 
 function writeIndex(index) {
     writeFileSync("index.json", JSON.stringify(index));
+}
+
+function initLemmatizer() {
+    return JSON.parse(readFileSync("source/package/en/variant.json").toString());
+}
+
+function lemmatizer(word, v) {
+    return v?.[word] || word;
 }

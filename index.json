@@ -66,6 +66,16 @@
             "language": "en"
         },
         {
+            "name": "NGSL",
+            "id": "NGSL",
+            "type": "word",
+            "updateTime": 0,
+            "sections": [
+                { "id": "ngsl", "title": "NGSL", "path": "NGSL.txt" }
+            ],
+            "language": "en"
+        },
+        {
             "name": "新概念英语一",
             "shortName": "新概念一",
             "id": "NCE1",

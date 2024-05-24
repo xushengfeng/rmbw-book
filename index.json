@@ -626,7 +626,7 @@
             "id": "en",
             "language": "en",
             "type": "package",
-            "updateTime": 1,
+            "updateTime": 2,
             "sections": [
                 { "id": "ipa", "title": "", "path": "package/en/ipa.json" },
                 { "id": "variant", "title": "", "path": "package/en/variant.json" },

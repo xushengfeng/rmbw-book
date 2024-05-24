@@ -431,7 +431,6 @@ lamp
 land
 laptop
 last
-last
 later
 laughter
 law
@@ -448,7 +447,6 @@ less
 level
 lifestyle
 lift
-light
 light
 likely
 link
@@ -646,13 +644,10 @@ researcher
 respond
 response
 rest
-rest
 review
 ride
 ring
-ring
 rise
-rock
 rock
 role
 roof

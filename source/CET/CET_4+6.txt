@@ -421,7 +421,6 @@ approximately
 approximation
 april
 apron
-apt
 aptitude
 arbitrary
 arbitrate
@@ -1878,7 +1877,6 @@ dating
 daughter
 dawn
 day
-daily
 daylight
 dazzle
 dead
@@ -2020,7 +2018,6 @@ depress
 depression
 deprive
 deprivation
-depth
 deputy
 derail
 derailment
@@ -2214,7 +2211,6 @@ dismiss
 dismissal
 disorder
 dispatch
-despatch
 dispense
 disperse
 displace
@@ -2648,9 +2644,7 @@ establishment
 estate
 esteem
 esthetic
-aesthetic
 esthetics
-aesthetics
 estimate
 estimation
 eternal
@@ -3851,9 +3845,7 @@ innovative
 innumerable
 input
 inquire
-enquire
 inquiry
-enquiry
 inquisitive
 insane
 insect
@@ -3899,7 +3891,6 @@ insulation
 insulator
 insult
 insure
-ensure
 insurance
 intact
 intake
@@ -4023,7 +4014,6 @@ ivory
 jack
 jacket
 jail
-gaol
 jam
 january
 jar
@@ -4430,7 +4420,6 @@ mar
 marathon
 marble
 march
-march
 margin
 marginal
 marine
@@ -4482,7 +4471,6 @@ may
 maximize
 maximise
 maximal
-may
 maybe
 mayor
 me
@@ -5353,7 +5341,6 @@ pet
 petition
 petitioner
 petrochemical
-petrol
 petroleum
 petty
 pharmacy
@@ -7524,7 +7511,6 @@ trustee
 truth
 truthful
 try
-trial
 trying
 tub
 tube
@@ -7560,7 +7546,6 @@ typist
 typewriter
 typical
 tyre
-tire
 ugly
 ugliness
 ultimate

@@ -634,7 +634,6 @@ separate
 seriously
 servant
 set
-set
 setting
 sex
 sexual
@@ -681,7 +680,6 @@ standard
 state
 statistic
 statue
-stick
 stick
 still
 store
@@ -765,7 +763,6 @@ unpleasant
 update
 upon
 upset
-used
 used
 valuable
 value

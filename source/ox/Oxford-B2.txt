@@ -653,7 +653,6 @@ tale
 tank
 target
 tear
-tear
 temporary
 term
 therapy

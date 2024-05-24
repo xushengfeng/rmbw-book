@@ -5,7 +5,7 @@
             "name": "牛津3000核心词",
             "id": "ox",
             "type": "word",
-            "updateTime": 0,
+            "updateTime": 1716563879370,
             "sections": [
                 { "id": "f64fea63", "title": "A1", "path": "ox/Oxford-A1.txt" },
                 { "id": "a8388fde", "title": "A2", "path": "ox/Oxford-A2.txt" },
@@ -56,7 +56,7 @@
             "name": "CET",
             "id": "CET",
             "type": "word",
-            "updateTime": 0,
+            "updateTime": 1716563879370,
             "sections": [
                 { "id": "cet4s", "title": "CET-4精选", "path": "CET/CET-4精选.txt" },
                 { "id": "cet4", "title": "CET4", "path": "CET/CET4.txt" },

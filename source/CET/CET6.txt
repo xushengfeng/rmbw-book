@@ -1757,7 +1757,6 @@ restraint
 restrict
 resultant
 resume
-resume
 retain
 retention
 retort
@@ -2126,7 +2125,6 @@ unemployment
 unfold
 unity
 unique
-unity
 universe
 update
 upgrade

@@ -437,7 +437,6 @@ life
 light
 adj.
 like
-like
 line
 lion
 list
@@ -667,8 +666,6 @@ school
 science
 scientist
 sea
-second
-number
 second
 section
 see

@@ -69,9 +69,13 @@
             "name": "NGSL",
             "id": "NGSL",
             "type": "word",
-            "updateTime": 0,
+            "updateTime": 2,
             "sections": [
-                { "id": "ngsl", "title": "NGSL", "path": "NGSL.txt" }
+                { "id": "ndl", "title": "NDL", "path": "NGSL/NDL.txt" },
+                { "id": "ngsl", "title": "NGSL", "path": "NGSL/NGSL.txt" },
+                { "id": "nawl", "title": "NAWL", "path": "NGSL/NAWL.txt" },
+                { "id": "tsl", "title": "TSL", "path": "NGSL/TSL.txt" },
+                { "id": "bsl", "title": "BSL", "path": "NGSL/BSL.txt" }
             ],
             "language": "en"
         },

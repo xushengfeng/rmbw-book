@@ -36,11 +36,13 @@
             "name": "高考词汇",
             "id": "gk",
             "type": "word",
-            "updateTime": 1716468613825,
+            "updateTime": 1716468613826,
             "sections": [
-                { "id": "6e6ed8d4", "title": "高考词汇", "path": "高考词汇.txt" },
-                { "id": "8556a7c2", "title": "考纲3000词", "path": "3000 words.txt" },
-                { "id": "gk93b558", "title": "高考核心词汇", "path": "高考核心词汇.txt" }
+                { "id": "6e6ed8d4", "title": "高考词汇", "path": "gk/高考词汇.txt" },
+                { "id": "8556a7c2", "title": "考纲3000词", "path": "gk/3000 words.txt" },
+                { "id": "gk93b558", "title": "高考核心词汇", "path": "gk/高考核心词汇.txt" },
+                { "id": "gk2c9b5a", "title": "高考拔高", "path": "gk/高考拔高.txt" },
+                { "id": "gk3bad77", "title": "高考短语", "path": "gk/高考短语.txt" }
             ],
             "language": "en"
         },

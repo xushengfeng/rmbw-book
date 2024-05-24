@@ -69,7 +69,7 @@
             "name": "NGSL",
             "id": "NGSL",
             "type": "word",
-            "updateTime": 2,
+            "updateTime": 3,
             "sections": [
                 { "id": "ndl", "title": "NDL", "path": "NGSL/NDL.txt" },
                 { "id": "ngsl", "title": "NGSL", "path": "NGSL/NGSL.txt" },

@@ -624,10 +624,11 @@
             "id": "en",
             "language": "en",
             "type": "package",
-            "updateTime": 0,
+            "updateTime": 1,
             "sections": [
                 { "id": "ipa", "title": "", "path": "package/en/ipa.json" },
-                { "id": "variant", "title": "", "path": "package/en/variant.json" }
+                { "id": "variant", "title": "", "path": "package/en/variant.json" },
+                { "id": "dic", "title": "", "path": "package/en/dic.json" }
             ]
         },
         {

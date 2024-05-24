@@ -47,6 +47,14 @@
             "language": "en"
         },
         {
+            "name": "中考词汇",
+            "id": "zk",
+            "type": "word",
+            "updateTime": 0,
+            "sections": [{ "id": "zk6b4c6c", "title": "中考词汇", "path": "zk/中考.txt" }],
+            "language": "en"
+        },
+        {
             "name": "剑桥PET",
             "id": "PET",
             "type": "word",

@@ -3955,7 +3955,7 @@ sympathize
 sympathy
 synthetic
 system
-systematic(al)
+systematic
 table
 tablet
 tag
@@ -4124,7 +4124,7 @@ touch
 tough
 tour
 tourist
-toward(s)
+towards
 towel
 tower
 town

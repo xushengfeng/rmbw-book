@@ -66,7 +66,7 @@
             "name": "CET",
             "id": "CET",
             "type": "word",
-            "updateTime": 1716563879370,
+            "updateTime": 1716563879371,
             "sections": [
                 { "id": "cet4s", "title": "CET-4精选", "path": "CET/CET-4精选.txt" },
                 { "id": "cet4", "title": "CET4", "path": "CET/CET4.txt" },
@@ -609,7 +609,7 @@
             "id": "rjbgz21",
             "language": "en",
             "type": "text",
-            "updateTime": 1716601012702,
+            "updateTime": 1716629700100,
             "sections": [
                 { "id": "rjbgz211a001b", "title": "Nature", "path": "rjbgz/21.1.1.md" },
                 {

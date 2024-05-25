@@ -634,11 +634,12 @@
             "id": "en",
             "language": "en",
             "type": "package",
-            "updateTime": 2,
+            "updateTime": 3,
             "sections": [
                 { "id": "ipa", "title": "", "path": "package/en/ipa.json" },
                 { "id": "variant", "title": "", "path": "package/en/variant.json" },
-                { "id": "dic", "title": "", "path": "package/en/dic.json" }
+                { "id": "dic", "title": "", "path": "package/en/dic.json" },
+                { "id": "map", "title": "", "path": "package/en/map.json" }
             ]
         },
         {

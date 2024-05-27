@@ -476,6 +476,28 @@
             }
         },
         {
+            "name": "人教版高中必修三",
+            "shortName": "必修三",
+            "id": "rjbgz03",
+            "language": "en",
+            "type": "text",
+            "updateTime": 0,
+            "note": "todo main text",
+            "cover": "",
+            "sections": [
+                { "id": "rjbgz03121a4c", "title": "THE CHINESE SPRING FESTIVAL", "path": "rjbgz/03.w1.1.md" },
+                { "id": "rjbgz0375ec14", "title": "WINTER CARNIVAL IN QUEBEC", "path": "rjbgz/03.w1.2.md" },
+                { "id": "rjbgz031e6f20", "title": "THE TAXI RIDE I’LL NEVER FORGET", "path": "rjbgz/03.w2.1.md" },
+                { "id": "rjbgz03325b86", "title": "THE FIVE VIRTUES", "path": "rjbgz/03.w2.2.md" },
+                { "id": "rjbgz03315801", "title": "SYMBOLS OF AMERICAN CULTURE", "path": "rjbgz/03.w3.1.md" },
+                { "id": "rjbgz0305c11e", "title": "NEW ZEALAND AND MAORI CULTURE", "path": "rjbgz/03.w3.2.md" },
+                { "id": "rjbgz03ba8a76", "title": "HOMES ON MARS?", "path": "rjbgz/03.w4.1.md" },
+                { "id": "rjbgz032b19eb", "title": "SPACE EXPLORATION", "path": "rjbgz/03.w4.2.md" },
+                { "id": "rjbgz031e7acc", "title": "THE MILLION POUND BANK NOTE", "path": "rjbgz/03.w5.1.md" },
+                { "id": "rjbgz031e6d59", "title": "MY UNCLE JULES (Adapted)", "path": "rjbgz/03.w5.2.md" }
+            ]
+        },
+        {
             "name": "人教版高中选择性必修一",
             "shortName": "选必一",
             "id": "rjbgz11",

@@ -485,16 +485,16 @@
             "note": "todo main text",
             "cover": "",
             "sections": [
-                { "id": "rjbgz03121a4c", "title": "THE CHINESE SPRING FESTIVAL", "path": "rjbgz/03.w1.1.md" },
-                { "id": "rjbgz0375ec14", "title": "WINTER CARNIVAL IN QUEBEC", "path": "rjbgz/03.w1.2.md" },
-                { "id": "rjbgz031e6f20", "title": "THE TAXI RIDE I’LL NEVER FORGET", "path": "rjbgz/03.w2.1.md" },
-                { "id": "rjbgz03325b86", "title": "THE FIVE VIRTUES", "path": "rjbgz/03.w2.2.md" },
-                { "id": "rjbgz03315801", "title": "SYMBOLS OF AMERICAN CULTURE", "path": "rjbgz/03.w3.1.md" },
-                { "id": "rjbgz0305c11e", "title": "NEW ZEALAND AND MAORI CULTURE", "path": "rjbgz/03.w3.2.md" },
-                { "id": "rjbgz03ba8a76", "title": "HOMES ON MARS?", "path": "rjbgz/03.w4.1.md" },
-                { "id": "rjbgz032b19eb", "title": "SPACE EXPLORATION", "path": "rjbgz/03.w4.2.md" },
-                { "id": "rjbgz031e7acc", "title": "THE MILLION POUND BANK NOTE", "path": "rjbgz/03.w5.1.md" },
-                { "id": "rjbgz031e6d59", "title": "MY UNCLE JULES (Adapted)", "path": "rjbgz/03.w5.2.md" }
+                { "id": "rjbgz03121a4c", "title": "The Chinese Spring Festival", "path": "rjbgz/03.w1.1.md" },
+                { "id": "rjbgz0375ec14", "title": "Winter Carnival in Quebec", "path": "rjbgz/03.w1.2.md" },
+                { "id": "rjbgz031e6f20", "title": "The Taxi Ride I’ll Never Forget", "path": "rjbgz/03.w2.1.md" },
+                { "id": "rjbgz03325b86", "title": "The Five Virtues", "path": "rjbgz/03.w2.2.md" },
+                { "id": "rjbgz03315801", "title": "Symbols of American Culture", "path": "rjbgz/03.w3.1.md" },
+                { "id": "rjbgz0305c11e", "title": "New Zealand and Maori Culture", "path": "rjbgz/03.w3.2.md" },
+                { "id": "rjbgz03ba8a76", "title": "Homes on Mars?", "path": "rjbgz/03.w4.1.md" },
+                { "id": "rjbgz032b19eb", "title": "Space Exploration", "path": "rjbgz/03.w4.2.md" },
+                { "id": "rjbgz031e7acc", "title": "The Million Pound Bank Note", "path": "rjbgz/03.w5.1.md" },
+                { "id": "rjbgz031e6d59", "title": "My Uncle Jules (Adapted)", "path": "rjbgz/03.w5.2.md" }
             ]
         },
         {
@@ -503,7 +503,7 @@
             "id": "rjbgz11",
             "language": "en",
             "type": "text",
-            "updateTime": 1713950618449,
+            "updateTime": 1713950618459,
             "note": "",
             "cover": "rjbgz/11.svg",
             "sections": [
@@ -525,24 +525,24 @@
                 { "id": "rjbgz115f2073", "title": "How Do I Know My Students?", "path": "rjbgz/11.4.2.md" },
                 { "id": "rjbgz1152c449", "title": "A Pioneer for All People", "path": "rjbgz/11.5.1.md" },
                 { "id": "rjbgz110d1e03", "title": "Chemical versus Organic Farming", "path": "rjbgz/11.5.2.md" },
-                { "id": "rjbgz111e2d79", "title": "HEROES IN YOUR EYES", "path": "rjbgz/11.w1.1.md" },
-                { "id": "rjbgz11c65261", "title": "THREE DAYS TO SEE", "path": "rjbgz/11.w1.2.md" },
-                { "id": "rjbgz1156df9a", "title": "CLONING: WHERE IS IT LEADING US?", "path": "rjbgz/11.w2.1.md" },
-                { "id": "rjbgz11e320ff", "title": "OUR GREATEST ADVENTURE", "path": "rjbgz/11.w2.2.md" },
-                { "id": "rjbgz110b3465", "title": "the email from Chris", "path": "rjbgz/11.w3.1.md" },
+                { "id": "rjbgz111e2d79", "title": "Heroes in Your Eyes", "path": "rjbgz/11.w1.1.md" },
+                { "id": "rjbgz11c65261", "title": "Three Days to See", "path": "rjbgz/11.w1.2.md" },
+                { "id": "rjbgz1156df9a", "title": "Cloning: Where Is It Leading Us?", "path": "rjbgz/11.w2.1.md" },
+                { "id": "rjbgz11e320ff", "title": "Our Greatest Adventure", "path": "rjbgz/11.w2.2.md" },
+                { "id": "rjbgz110b3465", "title": "The Email From Chris", "path": "rjbgz/11.w3.1.md" },
                 {
                     "id": "rjbgz1148ed17",
-                    "title": "national parks--a treasure house for future generations",
+                    "title": "National Parks--A Treasure House for Future Generations",
                     "path": "rjbgz/11.w3.2.md"
                 },
-                { "id": "rjbgz114807f1", "title": "ANIMAL BODY LANGUAGE", "path": "rjbgz/11.w4.1.md" },
-                { "id": "rjbgz11f1221d", "title": "BEING FUNNY WITHOUT SAYING A WORD", "path": "rjbgz/11.w4.2.md" },
+                { "id": "rjbgz114807f1", "title": "Animal Body Language", "path": "rjbgz/11.w4.1.md" },
+                { "id": "rjbgz11f1221d", "title": "Being Funny without Saying a Word", "path": "rjbgz/11.w4.2.md" },
                 {
                     "id": "rjbgz11ebb34d",
-                    "title": "BETTER, GREENER LIVES AWAY FROM THE CITY",
+                    "title": "Better, Greener Lives Away From the City",
                     "path": "rjbgz/11.w5.1.md"
                 },
-                { "id": "rjbgz115e0ac2", "title": "AMAZING METHODS OF AGRICULTURE", "path": "rjbgz/11.w5.2.md" }
+                { "id": "rjbgz115e0ac2", "title": "Amazing Methods of Agriculture", "path": "rjbgz/11.w5.2.md" }
             ]
         },
         {

@@ -551,8 +551,8 @@
             "id": "rjbgz12",
             "language": "en",
             "type": "text",
-            "updateTime": 1713494267689,
-            "note": "todo word book",
+            "updateTime": 1713494267699,
+            "note": "",
             "cover": "rjbgz/12.svg",
             "sections": [
                 { "id": "rjbgz12117c9a", "title": "John Snow Defeats “King Cholera”", "path": "rjbgz/12.1.1.md" },
@@ -581,7 +581,21 @@
                     "path": "rjbgz/12.4.2.md"
                 },
                 { "id": "rjbgz125b7996", "title": "First Aid for Burns", "path": "rjbgz/12.5.1.md" },
-                { "id": "rjbgz12b2e179", "title": "Story About Providing First Aid", "path": "rjbgz/12.5.2.md" }
+                { "id": "rjbgz12b2e179", "title": "Story About Providing First Aid", "path": "rjbgz/12.5.2.md" },
+                { "id": "rjbgz12283d6d", "title": "Ai and Human Beings", "path": "rjbgz/12.w1.1.md" },
+                { "id": "rjbgz129e20f9", "title": "Da Vinci’s World", "path": "rjbgz/12.w1.2.md" },
+                { "id": "rjbgz12b8240a", "title": "Jim’s Email", "path": "rjbgz/12.w2.1.md" },
+                {
+                    "id": "rjbgz1286c0ca",
+                    "title": "Zhan Tianyou: The Father of China’s Railroad",
+                    "path": "rjbgz/12.w2.2.md"
+                },
+                { "id": "rjbgz12423966", "title": "Convenience Food or Fresh Food?", "path": "rjbgz/12.w3.1.md" },
+                { "id": "rjbgz12436338", "title": "Farm-to-Table", "path": "rjbgz/12.w3.2.md" },
+                { "id": "rjbgz12ebd897", "title": "Xu Xiake’s Guilin", "path": "rjbgz/12.w4.1.md" },
+                { "id": "rjbgz12ba2194", "title": "Journeys by Dog Sled", "path": "rjbgz/12.w4.2.md" },
+                { "id": "rjbgz128da289", "title": "Is Your Home Safe?", "path": "rjbgz/12.w5.1.md" },
+                { "id": "rjbgz12593e1c", "title": "How One Man Made a Difference", "path": "rjbgz/12.w5.2.md" }
             ]
         },
         {

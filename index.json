@@ -36,7 +36,7 @@
             "name": "高考词汇",
             "id": "gk",
             "type": "word",
-            "updateTime": 1716468613826,
+            "updateTime": 1716468613827,
             "sections": [
                 { "id": "6e6ed8d4", "title": "高考词汇", "path": "gk/高考词汇.txt" },
                 { "id": "8556a7c2", "title": "考纲3000词", "path": "gk/3000 words.txt" },
@@ -481,7 +481,7 @@
             "id": "rjbgz03",
             "language": "en",
             "type": "text",
-            "updateTime": 0,
+            "updateTime": 1717382959356,
             "note": "todo main text",
             "cover": "",
             "sections": [

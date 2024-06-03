@@ -394,7 +394,7 @@ button
 buy
 by
 cabbage
-café
+cafe
 cafeteria
 cage
 cake

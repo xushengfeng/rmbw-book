@@ -684,6 +684,20 @@
             ]
         },
         {
+            "name": "人教版高中选修二",
+            "shortName": "选修二",
+            "id": "rjbgz22",
+            "language": "en",
+            "type": "text",
+            "updateTime": 1,
+            "sections": [
+                { "id": "rjbgz229e32c3", "title": "What Makes a True Friend?", "path": "rjbgz/22.1.1.md" },
+                { "id": "rjbgz225a4497", "title": "When We Are Together", "path": "rjbgz/22.1.2.md" },
+                { "id": "rjbgz227d87d6", "title": "Rediscovering Cooperation", "path": "rjbgz/22.1.3.md" },
+                { "id": "rjbgz22a33a25", "title": "The Proposal", "path": "rjbgz/22.1.4.md" }
+            ]
+        },
+        {
             "name": "英语",
             "id": "en",
             "language": "en",

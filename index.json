@@ -689,12 +689,20 @@
             "id": "rjbgz22",
             "language": "en",
             "type": "text",
-            "updateTime": 1,
+            "updateTime": 2,
             "sections": [
                 { "id": "rjbgz229e32c3", "title": "What Makes a True Friend?", "path": "rjbgz/22.1.1.md" },
                 { "id": "rjbgz225a4497", "title": "When We Are Together", "path": "rjbgz/22.1.2.md" },
                 { "id": "rjbgz227d87d6", "title": "Rediscovering Cooperation", "path": "rjbgz/22.1.3.md" },
-                { "id": "rjbgz22a33a25", "title": "The Proposal", "path": "rjbgz/22.1.4.md" }
+                { "id": "rjbgz22a33a25", "title": "The Proposal", "path": "rjbgz/22.1.4.md" },
+                { "id": "rjbgz22456ff4", "title": "The Sack of Troy", "path": "rjbgz/22.2.1.md" },
+                { "id": "rjbgz224f4d9b", "title": "Odysseus and the Cyclops", "path": "rjbgz/22.2.2.md" },
+                { "id": "rjbgz221ae2f4", "title": "The Nightingale", "path": "rjbgz/22.2.3.md" },
+                {
+                    "id": "rjbgz22bd6f6c",
+                    "title": "The Influence of Legends and Tales on  Language and Culture",
+                    "path": "rjbgz/22.2.4.md"
+                }
             ]
         },
         {

@@ -21,6 +21,8 @@ for (let b of index.books) {
                     text = text.replace(/([,.!?;])([A-Za-z])/g, "$1 $2");
                     text = text.replace(/ +/g, " ");
                     text = text.replace(/(\w+)'(\w+)/g, "$1’$2");
+                    text = text.replaceAll(" ”", "”");
+                    text = text.replaceAll("“ ", "“");
                     writeFile(s.path, text);
                 }
                 if (b.type === "word") {

@@ -689,7 +689,7 @@
             "id": "rjbgz22",
             "language": "en",
             "type": "text",
-            "updateTime": 2,
+            "updateTime": 3,
             "sections": [
                 { "id": "rjbgz229e32c3", "title": "What Makes a True Friend?", "path": "rjbgz/22.1.1.md" },
                 { "id": "rjbgz225a4497", "title": "When We Are Together", "path": "rjbgz/22.1.2.md" },
@@ -702,7 +702,19 @@
                     "id": "rjbgz22bd6f6c",
                     "title": "The Influence of Legends and Tales on  Language and Culture",
                     "path": "rjbgz/22.2.4.md"
-                }
+                },
+                {
+                    "id": "rjbgz22621194",
+                    "title": "Shenzhen: From Fishing Village to Metropolis",
+                    "path": "rjbgz/22.3.1.md"
+                },
+                { "id": "rjbgz221202f5", "title": "Secrets of Money: Compounding", "path": "rjbgz/22.3.2.md" },
+                {
+                    "id": "rjbgz22b8a0c5",
+                    "title": "Global Economic Trends the Sharing Economy",
+                    "path": "rjbgz/22.3.3.md"
+                },
+                { "id": "rjbgz22b409da", "title": "The Expat Entrepreneur", "path": "rjbgz/22.3.4.md" }
             ]
         },
         {

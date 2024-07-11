@@ -1732,5 +1732,8 @@
     ["yoghourt", "yogurt"],
     ["yoghourts", "yogurts"],
     ["yoghurt", "yogurt"],
-    ["yoghurts", "yogurts"]
+    ["yoghurts", "yogurts"],
+    ["industrialisation", "industrialization"],
+    ["urbanisation", "urbanization"],
+    ["modernisation", "modernization"]
 ]

@@ -483,6 +483,7 @@
             "type": "text",
             "updateTime": 1717382959356,
             "note": "todo main text",
+            "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
             "cover": "",
             "sections": [
                 { "id": "rjbgz03121a4c", "title": "The Chinese Spring Festival", "path": "rjbgz/03.w1.1.md" },
@@ -505,6 +506,7 @@
             "type": "text",
             "updateTime": 1713950618459,
             "note": "",
+            "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
             "cover": "rjbgz/11.svg",
             "sections": [
                 { "id": "rjbgz11879340", "title": "Tu Youyou Awarded Nobel Prize", "path": "rjbgz/11.1.1.md" },
@@ -553,6 +555,7 @@
             "type": "text",
             "updateTime": 1713494267699,
             "note": "",
+            "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
             "cover": "rjbgz/12.svg",
             "sections": [
                 { "id": "rjbgz12117c9a", "title": "John Snow Defeats “King Cholera”", "path": "rjbgz/12.1.1.md" },
@@ -606,6 +609,7 @@
             "type": "text",
             "updateTime": 1721450510263,
             "note": "todo word book",
+            "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
             "cover": "rjbgz/13.svg",
             "sections": [
                 { "id": "rjbgz1356d831", "title": "A Short History of Western Painting", "path": "rjbgz/13.1.1.md" },
@@ -639,6 +643,7 @@
             "type": "text",
             "updateTime": 1714645788091,
             "note": "todo word book",
+            "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
             "cover": "rjbgz/14.svg",
             "sections": [
                 { "id": "rjbgz14c2c557", "title": "Satisfaction Guaranteed", "path": "rjbgz/14.1.1.md" },
@@ -663,6 +668,7 @@
             "id": "rjbgz21",
             "language": "en",
             "type": "text",
+            "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
             "updateTime": 1721450510264,
             "sections": [
                 { "id": "rjbgz211a001b", "title": "Nature", "path": "rjbgz/21.1.1.md" },
@@ -689,6 +695,7 @@
             "id": "rjbgz22",
             "language": "en",
             "type": "text",
+            "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
             "updateTime": 1721450510263,
             "sections": [
                 { "id": "rjbgz229e32c3", "title": "What Makes a True Friend?", "path": "rjbgz/22.1.1.md" },

@@ -659,8 +659,8 @@
             "id": "rjbgz14",
             "language": "en",
             "type": "text",
-            "updateTime": 1714645788091,
-            "note": "todo word book",
+            "updateTime": 1714645788092,
+            "note": "",
             "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
             "cover": "rjbgz/14.svg",
             "sections": [
@@ -677,7 +677,23 @@
                 { "id": "rjbgz14eab47a", "title": "Volunteering in the Bush", "path": "rjbgz/14.4.1.md" },
                 { "id": "rjbgz147adc70", "title": "China’s Aid to Other Countries", "path": "rjbgz/14.4.2.md" },
                 { "id": "rjbgz14d16173", "title": "Working Out What You Want to Do", "path": "rjbgz/14.5.1.md" },
-                { "id": "rjbgz1446dcbe", "title": "Summer Camp Helpers Wanted!", "path": "rjbgz/14.5.2.md" }
+                { "id": "rjbgz1446dcbe", "title": "Summer Camp Helpers Wanted!", "path": "rjbgz/14.5.2.md" },
+                { "id": "rjbgz142c209a", "title": "Journey to the Centre of the Earth", "path": "rjbgz/14.w1.1.md" },
+                { "id": "rjbgz147cac4b", "title": "Science Fiction or Science Fact?", "path": "rjbgz/14.w1.2.md" },
+                { "id": "rjbgz14c56d2a", "title": "What’s Cooking in Australia?", "path": "rjbgz/14.w2.1.md" },
+                { "id": "rjbgz145bbf17", "title": "The Kiwi", "path": "rjbgz/14.w2.2.md" },
+                { "id": "rjbgz1417dde4", "title": "The Thorn Birds (Adapted)", "path": "rjbgz/14.w2.3.md" },
+                { "id": "rjbgz1431560c", "title": "A Sea of Plastic", "path": "rjbgz/14.w3.1.md" },
+                { "id": "rjbgz14e7bc1f", "title": "Sea Fever", "path": "rjbgz/14.w3.2.md" },
+                { "id": "rjbgz1476743e", "title": "On the Seashore", "path": "rjbgz/14.w3.3.md" },
+                { "id": "rjbgz147be62c", "title": "The World’s Most Useful Gifts", "path": "rjbgz/14.w4.1.md" },
+                { "id": "rjbgz1440f9b5", "title": "For the Children (Adapted)", "path": "rjbgz/14.w4.2.md" },
+                { "id": "rjbgz1483fe2b", "title": "Does Practice Really Make Perfect?", "path": "rjbgz/14.w5.1.md" },
+                {
+                    "id": "rjbgz14917ee3",
+                    "title": "The Summer Break that Could Change Your Life",
+                    "path": "rjbgz/14.w5.2.md"
+                }
             ]
         },
         {

@@ -491,7 +491,11 @@
                 { "id": "rjbgz031e6f20", "title": "The Taxi Ride I’ll Never Forget", "path": "rjbgz/03.w2.1.md" },
                 { "id": "rjbgz03325b86", "title": "The Five Virtues", "path": "rjbgz/03.w2.2.md" },
                 { "id": "rjbgz03315801", "title": "Symbols of American Culture", "path": "rjbgz/03.w3.1.md" },
-                { "id": "rjbgz0305c11e", "title": "New Zealand and Maori Culture", "path": "rjbgz/03.w3.2.md" },
+                {
+                    "id": "rjbgz0305c11e",
+                    "title": "New Zealand and Maori Culture—THE LAND OF THE LONG WHITE CLOUD",
+                    "path": "rjbgz/03.w3.2.md"
+                },
                 { "id": "rjbgz03ba8a76", "title": "Homes on Mars?", "path": "rjbgz/03.w4.1.md" },
                 { "id": "rjbgz032b19eb", "title": "Space Exploration", "path": "rjbgz/03.w4.2.md" },
                 { "id": "rjbgz031e7acc", "title": "The Million Pound Bank Note", "path": "rjbgz/03.w5.1.md" },
@@ -519,10 +523,10 @@
                 { "id": "rjbgz11935d8a", "title": "Should We Fight New Technology?", "path": "rjbgz/11.2.2.md" },
                 {
                     "id": "rjbgz1175bee8",
-                    "title": "Sarek National Park-—Europe’s Hidden Natural Treasure",
+                    "title": "Sarek National Park—Europe’s Hidden Natural Treasure",
                     "path": "rjbgz/11.3.1.md"
                 },
-                { "id": "rjbgz11ecb374", "title": "Theme Parks--Fun and More than Fun", "path": "rjbgz/11.3.2.md" },
+                { "id": "rjbgz11ecb374", "title": "Theme Parks—Fun and More than Fun", "path": "rjbgz/11.3.2.md" },
                 { "id": "rjbgz1115d7e1", "title": "Listening to How Bodies Talk", "path": "rjbgz/11.4.1.md" },
                 { "id": "rjbgz115f2073", "title": "How Do I Know My Students?", "path": "rjbgz/11.4.2.md" },
                 { "id": "rjbgz1152c449", "title": "A Pioneer for All People", "path": "rjbgz/11.5.1.md" },
@@ -534,7 +538,7 @@
                 { "id": "rjbgz110b3465", "title": "The Email From Chris", "path": "rjbgz/11.w3.1.md" },
                 {
                     "id": "rjbgz1148ed17",
-                    "title": "National Parks--A Treasure House for Future Generations",
+                    "title": "National Parks—A Treasure House for Future Generations",
                     "path": "rjbgz/11.w3.2.md"
                 },
                 { "id": "rjbgz114807f1", "title": "Animal Body Language", "path": "rjbgz/11.w4.1.md" },

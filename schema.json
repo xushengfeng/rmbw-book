@@ -32,6 +32,9 @@
                     "updateTime": {
                         "type": "integer"
                     },
+                    "titleParse": {
+                        "type": "string"
+                    },
                     "sections": {
                         "type": "array",
                         "items": {
@@ -45,6 +48,9 @@
                                 },
                                 "path": {
                                     "type": "string"
+                                },
+                                "index": {
+                                    "type": "integer"
                                 }
                             },
                             "additionalProperties": false,

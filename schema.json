@@ -35,6 +35,7 @@
                     "titleParse": {
                         "type": "string"
                     },
+                    "titleIndex": { "type": "array", "items": { "type": "integer" } },
                     "sections": {
                         "type": "array",
                         "items": {
@@ -48,9 +49,6 @@
                                 },
                                 "path": {
                                     "type": "string"
-                                },
-                                "index": {
-                                    "type": "integer"
                                 }
                             },
                             "additionalProperties": false,

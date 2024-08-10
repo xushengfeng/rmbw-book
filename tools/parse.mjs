@@ -21,9 +21,23 @@ for (let b of index.books) {
                     text = text.replace(/([,.!?;])([A-Za-z])/g, "$1 $2");
                     text = text.replace(/ +/g, " ");
                     text = text.replace(/(\w+)'(\w+)/g, "$1’$2");
+                    text = text.replaceAll("--", "—");
+                    let q = 0;
+                    let qq = 0;
+                    text = text.replace(/['"]/g, (a) => {
+                        if (a === "'") {
+                            q++;
+                            if (q % 2 === 1) {
+                                return "‘";
+                            }
+                            return "’";
+                        }
+                        qq++;
+                        if (qq % 2 === 1) return "“";
+                        return "”";
+                    });
                     text = text.replaceAll(" ”", "”");
                     text = text.replaceAll("“ ", "“");
-                    text = text.replaceAll("--", "—");
                     writeFile(s.path, text);
                 }
                 if (b.type === "word") {

@@ -61,15 +61,6 @@
                     "wordSplit": {
                         "type": "string",
                         "enum": ["grapheme", "word"]
-                    },
-                    "coverage": {
-                        "type": "object",
-                        "patternProperties": {
-                            ".*": {
-                                "type": "array",
-                                "items": [{ "type": "number" }, { "type": "number" }]
-                            }
-                        }
                     }
                 },
                 "additionalProperties": false,

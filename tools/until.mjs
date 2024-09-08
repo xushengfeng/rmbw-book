@@ -24,7 +24,7 @@ function getIndex() {
 }
 
 function writeIndex(index) {
-    writeFileSync("index.json", JSON.stringify(index));
+    writeFileSync("index.json", JSON.stringify(index, null, 2));
 }
 
 function initLemmatizer() {

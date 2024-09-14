@@ -66,6 +66,9 @@
                 "additionalProperties": false,
                 "required": ["name", "id", "type", "updateTime", "sections", "language"]
             }
+        },
+        "feedback": {
+            "type": "string"
         }
     }
 }

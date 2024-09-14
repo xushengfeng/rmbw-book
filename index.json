@@ -3547,5 +3547,6 @@
         }
       ]
     }
-  ]
+  ],
+  "feedback": "https://github.com/xushengfeng/rmbw-book/issues/new?title=${word} in ${sid}"
 }

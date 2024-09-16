@@ -18,7 +18,7 @@ function writeFile(fpath, data) {
 }
 
 function getIndex() {
-    /** @type {{books:{"name": string,"id": string,"type": "word"|"text","updateTime": number,"sections": { "id": string, "title": string, "path": string }[],"language": string,coverage?:{[key:string]:[number,number]}}[]}} */
+    /** @type {{books:{"name": string,"id": string,"type": "word"|"text"|"package"|"dictionary","updateTime": number,"sections": { "id": string, "title": string, "path": string }[],"language": string,coverage?:{[key:string]:[number,number]}}[]}} */
     const index = JSON.parse(readFileSync("index.json").toString());
     return index;
 }

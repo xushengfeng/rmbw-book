@@ -2386,16 +2386,25 @@
           "path": "package/en/variant.json"
         },
         {
-          "id": "dic",
-          "title": "",
-          "path": "package/en/dic.json"
-        },
-        {
           "id": "map",
           "title": "",
           "path": "package/en/map.json"
         }
       ]
+    },
+    {
+      "name": "simpleDic",
+      "id": "simple_dic",
+      "type": "dictionary",
+      "updateTime": 3,
+      "sections": [
+        {
+          "id": "",
+          "title": "",
+          "path": "dictionary/simple_en_dic.json"
+        }
+      ],
+      "language": "en"
     },
     {
       "name": "人教版初中七年级上",

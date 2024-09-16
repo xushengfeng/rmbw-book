@@ -1,45 +1,54 @@
-lockfileVersion: '6.0'
+lockfileVersion: '9.0'
 
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-dependencies:
-  title-case:
-    specifier: ^4.3.1
-    version: 4.3.1
+importers:
 
-devDependencies:
-  lemmatizer:
-    specifier: ^0.0.1
-    version: 0.0.1
+  .:
+    dependencies:
+      title-case:
+        specifier: ^4.3.1
+        version: 4.3.1
+    devDependencies:
+      lemmatizer:
+        specifier: ^0.0.1
+        version: 0.0.1
 
 packages:
 
-  /en-inflectors@1.0.12:
+  en-inflectors@1.0.12:
     resolution: {integrity: sha512-G9wwJMx9DQQzwom8J8e8ErVpI6h/Z5BpYusJCE2Q/2NfgBNYCesyNaCOOskZAhOrw2nmR4D8nYAv4Xv/INIbzw==}
+
+  en-lexicon@1.0.11:
+    resolution: {integrity: sha512-eanOw9551H6jMRpRK023+Nlss5qnuAi99drXcSUzQySsMrB43teDNbin/AbpOfnemQiTtuZChXYm2kEIR1Mhmg==}
+
+  en-stemmer@1.0.3:
+    resolution: {integrity: sha512-sBeYsHLqZWACn/mTRLAMdYb/A53s55r4/nCB2UjKK96EBuRQ4t4GKl4V1pW/0hvzdncfYlZRT+JSIRxCtoYqbA==}
+
+  lemmatizer@0.0.1:
+    resolution: {integrity: sha512-OhVYdbBYeCHE0Jea6L8jzbyKzZyZVjq/Aexd7Tv/kQa4TSiXR9HQ7+SgsD/VRzNNEB2sfO5HCx4Czg1fWgibDw==}
+
+  title-case@4.3.1:
+    resolution: {integrity: sha512-VnPxQ+/j0X2FZ4ceGq1oLruTLjtN5Ul4sam5ypd4mDZLm1eHwkwip1gLxqhON/j4qyTlUlfPKslE/t4NPSlxhg==}
+
+snapshots:
+
+  en-inflectors@1.0.12:
     dependencies:
       en-stemmer: 1.0.3
-    dev: true
 
-  /en-lexicon@1.0.11:
-    resolution: {integrity: sha512-eanOw9551H6jMRpRK023+Nlss5qnuAi99drXcSUzQySsMrB43teDNbin/AbpOfnemQiTtuZChXYm2kEIR1Mhmg==}
+  en-lexicon@1.0.11:
     dependencies:
       en-inflectors: 1.0.12
-    dev: true
 
-  /en-stemmer@1.0.3:
-    resolution: {integrity: sha512-sBeYsHLqZWACn/mTRLAMdYb/A53s55r4/nCB2UjKK96EBuRQ4t4GKl4V1pW/0hvzdncfYlZRT+JSIRxCtoYqbA==}
-    dev: true
+  en-stemmer@1.0.3: {}
 
-  /lemmatizer@0.0.1:
-    resolution: {integrity: sha512-OhVYdbBYeCHE0Jea6L8jzbyKzZyZVjq/Aexd7Tv/kQa4TSiXR9HQ7+SgsD/VRzNNEB2sfO5HCx4Czg1fWgibDw==}
+  lemmatizer@0.0.1:
     dependencies:
       en-inflectors: 1.0.12
       en-lexicon: 1.0.11
       en-stemmer: 1.0.3
-    dev: true
 
-  /title-case@4.3.1:
-    resolution: {integrity: sha512-VnPxQ+/j0X2FZ4ceGq1oLruTLjtN5Ul4sam5ypd4mDZLm1eHwkwip1gLxqhON/j4qyTlUlfPKslE/t4NPSlxhg==}
-    dev: false
+  title-case@4.3.1: {}

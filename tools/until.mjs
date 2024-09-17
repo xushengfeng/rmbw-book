@@ -1,10 +1,14 @@
 import { readFileSync, writeFileSync } from "fs";
 import path from "path";
 
-export { getFile, writeFile, getIndex, writeIndex, initLemmatizer, lemmatizer };
+export { getFile, getFilePath, writeFile, getIndex, writeIndex, initLemmatizer, lemmatizer };
+
+function getFilePath(fpath) {
+    return path.join("source/", fpath);
+}
 
 function getFile(fpath) {
-    return readFileSync(path.join("source/", fpath)).toString();
+    return readFileSync(getFilePath(fpath)).toString();
 }
 
 /**

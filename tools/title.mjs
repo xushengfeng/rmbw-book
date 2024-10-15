@@ -6,9 +6,9 @@ const index = getIndex();
 
 const booksId = process.argv.slice(2);
 
-for (let b of index.books) {
+for (const b of index.books) {
     if (booksId.includes(b.id)) {
-        for (let s of b.sections) {
+        for (const s of b.sections) {
             s.title = titleCase(s.title.toLocaleLowerCase());
         }
     }

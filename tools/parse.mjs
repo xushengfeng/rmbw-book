@@ -7,15 +7,15 @@ const booksId = process.argv.slice(2);
 const englishMap = { "，": ",", "。": ".", "？": "?", "！": "!", "：": ":", "；": ";", "（": "(", "）": ")" };
 const chineseMap = { ",": "，", "?": "？", "!": "！", ":": "：", ";": "；", "(": "（", ")": "）" };
 
-for (let b of index.books) {
+for (const b of index.books) {
     let matchBook = false;
     if (booksId.includes(b.id)) matchBook = true;
-    for (let s of b.sections) {
+    for (const s of b.sections) {
         if (matchBook || booksId.includes(s.id)) {
             let text = getFile(s.path);
             if (b.language === "en") {
                 if (b.type === "text") {
-                    for (let i in englishMap) {
+                    for (const i in englishMap) {
                         text = text.replaceAll(i, englishMap[i]);
                     }
                     text = text.replace(/([,.!?;])([A-Za-z])/g, "$1 $2");
@@ -54,7 +54,7 @@ for (let b of index.books) {
                     text = text.replace(/([@#!])/g, "");
                     text = text.replace(/([a-z])/g, "");
                     text = text.replace(/\n+/g, "\n");
-                    for (let i in chineseMap) {
+                    for (const i in chineseMap) {
                         text = text.replaceAll(i, chineseMap[i]);
                     }
                     text = text.trim();

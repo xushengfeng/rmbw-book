@@ -1,9 +1,8 @@
-import { writeFileSync } from "fs";
-import { getFile, writeFile, getIndex } from "./until.mjs";
+import { getFile, writeFile, getIndex, writeIndex } from "./until.mjs";
 const index = getIndex();
 
-for (let b of index.books) {
-    for (let s of b.sections) {
+for (const b of index.books) {
+    for (const s of b.sections) {
         if (!s.id) {
             s.id = b.id + crypto.randomUUID().slice(0, 6);
         }
@@ -17,4 +16,4 @@ for (let b of index.books) {
     }
 }
 
-writeFileSync("index.json", JSON.stringify(index));
+writeIndex("index.json", JSON.stringify(index));

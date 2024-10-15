@@ -1,5 +1,5 @@
-import { readFileSync, writeFileSync } from "fs";
-import path from "path";
+import { readFileSync, writeFileSync } from "node:fs";
+import path from "node:path";
 
 export { getFile, getFilePath, writeFile, getIndex, writeIndex, initLemmatizer, lemmatizer };
 

@@ -2369,6 +2369,22 @@
       ]
     },
     {
+      "name": "人教版高中选修三",
+      "shortName": "选修三",
+      "id": "rjbgz23",
+      "language": "en",
+      "type": "text",
+      "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
+      "updateTime": 0,
+      "sections": [
+        {
+          "id": "rjbgz23da18a3",
+          "title": "Of Studies",
+          "path": "rjbgz/23/1.1.md"
+        }
+      ]
+    },
+    {
       "name": "英语",
       "id": "en",
       "language": "en",
@@ -2399,7 +2415,7 @@
       "updateTime": 3,
       "sections": [
         {
-          "id": "",
+          "id": "simple_dicdbbd2e",
           "title": "",
           "path": "dictionary/simple_en_dic.json"
         }

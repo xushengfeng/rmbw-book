@@ -16,4 +16,4 @@ for (const b of index.books) {
     }
 }
 
-writeIndex("index.json", JSON.stringify(index));
+writeIndex(index);

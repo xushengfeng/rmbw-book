@@ -38,6 +38,7 @@ for (const b of index.books) {
                     });
                     text = text.replaceAll(" ”", "”");
                     text = text.replaceAll("“ ", "“");
+                    text = text.replaceAll(".“", ". “");
                     writeFile(s.path, text);
                 }
                 if (b.type === "word") {

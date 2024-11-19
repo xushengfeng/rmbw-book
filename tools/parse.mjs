@@ -18,10 +18,11 @@ for (const b of index.books) {
                     for (const i in englishMap) {
                         text = text.replaceAll(i, englishMap[i]);
                     }
-                    text = text.replace(/([,.!?;])([A-Za-z])/g, "$1 $2");
+                    text = text.replace(/([,.!?;])([A-Za-z]{2,})/g, "$1 $2");
                     text = text.replace(/ +/g, " ");
                     text = text.replace(/(\w+)'(\w+)/g, "$1’$2");
-                    text = text.replaceAll("--", "—");
+                    text = text.replace(/(?<!-)--(?!-)/g, "—");
+                    text = text.replace(/ *— */g, "—");
                     let q = 0;
                     let qq = 0;
                     text = text.replace(/['"]/g, (a) => {

@@ -88,7 +88,7 @@
       "name": "高考词汇",
       "id": "gk",
       "type": "word",
-      "updateTime": 1716468613827,
+      "updateTime": 1744963708852,
       "sections": [
         {
           "id": "6e6ed8d4",
@@ -114,6 +114,16 @@
           "id": "gk3bad77",
           "title": "高考短语",
           "path": "gk/高考短语.txt"
+        },
+        {
+          "id": "gk3d6c87",
+          "title": "历年高考词",
+          "path": "gk/历年高考词.txt"
+        },
+        {
+          "id": "gk893b7d",
+          "title": "历年高考词（出现一次）",
+          "path": "gk/once.txt"
         }
       ],
       "language": "en"

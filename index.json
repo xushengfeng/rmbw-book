@@ -1793,6 +1793,69 @@
       "language": "en"
     },
     {
+      "name": "人教版高中必修一",
+      "shortName": "必修一",
+      "id": "rjbgz01",
+      "language": "en",
+      "type": "text",
+      "updateTime": 0,
+      "note": "todo main text",
+      "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
+      "cover": "",
+      "sections": [
+        {
+          "id": "rjbgz01c6ced8",
+          "title": "The Face-Down Generation",
+          "path": "rjbgz/01/w1.1.md"
+        },
+        {
+          "id": "rjbgz015bfa19",
+          "title": "Teenage Life Around the World",
+          "path": "rjbgz/01/w1.2.md"
+        },
+        {
+          "id": "rjbgz01f427fa",
+          "title": "Be a Good Tourist",
+          "path": "rjbgz/01/w2.1.md"
+        },
+        {
+          "id": "rjbgz01e8de44",
+          "title": "A Letter",
+          "path": "rjbgz/01/w2.2.md"
+        },
+        {
+          "id": "rjbgz01a8dbbe",
+          "title": "Cool Cold Sports",
+          "path": "rjbgz/01/w3.1.md"
+        },
+        {
+          "id": "rjbgz016ce07d",
+          "title": "Hot Tickets",
+          "path": "rjbgz/01/w3.2.md"
+        },
+        {
+          "id": "rjbgz0150a33a",
+          "title": "The Story of an Eyewitness (Adapted)",
+          "path": "rjbgz/01/w4.1.md"
+        },
+        {
+          "id": "rjbgz01679761",
+          "title": "China to the Rescue!",
+          "path": "rjbgz/01/w4.2.md"
+        },
+        {
+          "id": "rjbgz01bbcc78",
+          "title": "Polyglots: What Are They and Who Can Be One?",
+          "path": "rjbgz/01/w5.1.md"
+        },
+        {
+          "id": "rjbgz019a9a43",
+          "title": "The Book that Keeps on Growing",
+          "path": "rjbgz/01/w5.2.md"
+        }
+      ]
+    },
+    {
       "name": "人教版高中必修二",
       "shortName": "必修二",
       "id": "rjbgz02",

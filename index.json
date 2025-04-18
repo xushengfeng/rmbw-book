@@ -1793,6 +1793,69 @@
       "language": "en"
     },
     {
+      "name": "人教版高中必修二",
+      "shortName": "必修二",
+      "id": "rjbgz02",
+      "language": "en",
+      "type": "text",
+      "updateTime": 0,
+      "note": "todo main text",
+      "description": "https://jc.pep.com.cn/?filed=高中&subject=英语",
+      "cover": "",
+      "sections": [
+        {
+          "id": "rjbgz0217fec1",
+          "title": "New Discoveries From the Past",
+          "path": "rjbgz/02/w1.1.md"
+        },
+        {
+          "id": "rjbgz02a712df",
+          "title": "World Cultural Heritage Sites",
+          "path": "rjbgz/02/w1.2.md"
+        },
+        {
+          "id": "rjbgz022de12a",
+          "title": "The Strange Tale of the Milu Deer",
+          "path": "rjbgz/02/w2.1.md"
+        },
+        {
+          "id": "rjbgz02780929",
+          "title": "Urban Wildlife",
+          "path": "rjbgz/02/w2.2.md"
+        },
+        {
+          "id": "rjbgz02d13575",
+          "title": "My Day Online",
+          "path": "rjbgz/02/w3.1.md"
+        },
+        {
+          "id": "rjbgz026dd5e8",
+          "title": "E-Learning",
+          "path": "rjbgz/02/w3.2.md"
+        },
+        {
+          "id": "rjbgz023d60e6",
+          "title": "Two Mails",
+          "path": "rjbgz/02/w4.1.md"
+        },
+        {
+          "id": "rjbgz02dbf695",
+          "title": "Samovar—The Special Teapot",
+          "path": "rjbgz/02/w4.2.md"
+        },
+        {
+          "id": "rjbgz02268cf9",
+          "title": "Cat’s in the Cradle",
+          "path": "rjbgz/02/w5.1.md"
+        },
+        {
+          "id": "rjbgz029bbaac",
+          "title": "Music Scores in Films",
+          "path": "rjbgz/02/w5.2.md"
+        }
+      ]
+    },
+    {
       "name": "人教版高中必修三",
       "shortName": "必修三",
       "id": "rjbgz03",

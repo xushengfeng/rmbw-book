@@ -2642,6 +2642,16 @@
           "id": "map",
           "title": "",
           "path": "package/en/map.json"
+        },
+        {
+          "id": "etymology",
+          "title": "",
+          "path": "package/en/root/words.json"
+        },
+        {
+          "id": "etymology_root",
+          "title": "",
+          "path": "package/en/root/roots.json"
         }
       ]
     },

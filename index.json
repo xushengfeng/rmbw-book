@@ -3810,12 +3810,17 @@
       "id": "wyw",
       "language": "cn",
       "type": "word",
-      "updateTime": 0,
+      "updateTime": 1745214628560,
       "sections": [
         {
           "id": "wyw120sc",
           "title": "120实词",
           "path": "rjbgw/120.txt"
+        },
+        {
+          "id": "wyw747d3b",
+          "title": "616实词",
+          "path": "rjbgw/616.txt"
         }
       ]
     }

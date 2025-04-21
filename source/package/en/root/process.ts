@@ -22,8 +22,8 @@ for (const [sp, word] of x) {
 
 const rootObject: Record<string, string[]> = {};
 for (const [word, sp] of Object.entries(nobject)) {
-    const root = sp.match(/\(.*?\)/)?.[0];
-    if (root) {
+    const roots = sp.match(/\(.*?\)/g) || [];
+    for (const root of roots) {
         const x = rootObject[root] ?? [];
         x.push(word);
         rootObject[root] = x;

@@ -3823,6 +3823,85 @@
           "path": "rjbgw/616.txt"
         }
       ]
+    },
+    {
+      "name": "古代汉语",
+      "id": "gdhycyc",
+      "language": "cn",
+      "type": "word",
+      "updateTime": 4,
+      "sections": [
+        {
+          "id": "gdhycycece874",
+          "title": "1",
+          "path": "gdhy/1.txt"
+        },
+        {
+          "id": "gdhycyc32a495",
+          "title": "2",
+          "path": "gdhy/2.txt"
+        },
+        {
+          "id": "gdhycycc417c2",
+          "title": "3",
+          "path": "gdhy/3.txt"
+        },
+        {
+          "id": "gdhycycbb8c40",
+          "title": "4",
+          "path": "gdhy/4.txt"
+        },
+        {
+          "id": "gdhycyca8f62c",
+          "title": "5",
+          "path": "gdhy/5.txt"
+        },
+        {
+          "id": "gdhycyc3ecf82",
+          "title": "6",
+          "path": "gdhy/6.txt"
+        },
+        {
+          "id": "gdhycyc4b0e2d",
+          "title": "7",
+          "path": "gdhy/7.txt"
+        },
+        {
+          "id": "gdhycyc51d1c0",
+          "title": "8",
+          "path": "gdhy/8.txt"
+        },
+        {
+          "id": "gdhycycb8e02f",
+          "title": "9",
+          "path": "gdhy/9.txt"
+        },
+        {
+          "id": "gdhycyc25488f",
+          "title": "10",
+          "path": "gdhy/10.txt"
+        },
+        {
+          "id": "gdhycyc51e908",
+          "title": "11",
+          "path": "gdhy/11.txt"
+        },
+        {
+          "id": "gdhycycb7196a",
+          "title": "12",
+          "path": "gdhy/12.txt"
+        },
+        {
+          "id": "gdhycyc2023b0",
+          "title": "13",
+          "path": "gdhy/13.txt"
+        },
+        {
+          "id": "gdhycycb6cc91",
+          "title": "14",
+          "path": "gdhy/14.txt"
+        }
+      ]
     }
   ],
   "feedback": "https://github.com/xushengfeng/rmbw-book/issues/new?title=${word} in ${sid}"

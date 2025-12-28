@@ -419,7 +419,7 @@ approval
 approximate
 approximately
 approximation
-april
+April
 apron
 aptitude
 arbitrary
@@ -563,7 +563,7 @@ auditorium
 auditing
 auditor
 augment
-august
+August
 aunt
 augmentation
 auntie
@@ -1901,7 +1901,7 @@ deceive
 deceit
 deception
 deceptive
-december
+December
 decent
 decide
 decision
@@ -2885,7 +2885,7 @@ feast
 feat
 feather
 feature
-february
+February
 federal
 federation
 fee
@@ -4015,7 +4015,7 @@ jack
 jacket
 jail
 jam
-january
+January
 jar
 jargon
 jaw
@@ -4055,10 +4055,10 @@ judgement
 joyful
 juice
 juicy
-july
+July
 jump
 junction
-june
+June
 jungle
 junior
 junk
@@ -4902,7 +4902,7 @@ nourishment
 novel
 novelist
 novelty
-november
+November
 now
 nowadays
 nowhere
@@ -4997,7 +4997,7 @@ okay
 old
 old-fashioned
 olive
-olympic
+Olympic
 omit
 olympics
 olympiad
@@ -6420,7 +6420,7 @@ sensitivity
 sentiment
 sentimental
 separate
-september
+September
 sequence
 sergeant
 serial

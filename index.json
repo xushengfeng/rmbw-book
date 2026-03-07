@@ -2656,6 +2656,21 @@
       ]
     },
     {
+      "name": "新视野大学英语 第四版 读写教程 第一册",
+      "shortName": "新视野一",
+      "id": "xsy01",
+      "type": "text",
+      "updateTime": 0,
+      "language": "en",
+      "sections": [
+        {
+          "id": "xsy0159fe8a",
+          "title": "Toward a brighter future for all",
+          "path": "xsy/1/1a.md"
+        }
+      ]
+    },
+    {
       "name": "simpleDic",
       "id": "simple_dic",
       "type": "dictionary",
